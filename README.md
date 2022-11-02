@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **C++, C, WEB development**
 
-- 👨‍💻 All of my projects are available at (PLEASE OPEN IN NEW TAB)<br> 
+- 👨‍💻 All of my projects are available at (USE DESKTOP FOR BEST EXPERIENCE)<br> 
    [https://suhailpersonalportfolio.netlify.app/](https://suhailpersonalportfolio.netlify.app/)
 
 - 📫 How to reach me **suhailcollegemail@gmail.com**
