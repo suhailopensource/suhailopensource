@@ -35,5 +35,7 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suhailopensource&show_icons=true&locale=en" alt="suhailopensource" /></p>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suhailopensource&theme=monokai" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suhailopensource&theme=monokai" height="180em" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suhailopensource&" alt="suhailopensource" /></p>
