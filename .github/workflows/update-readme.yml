@@ -19,4 +19,18 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: "chore: update README with recent activity"
-          MAX_LINES: 5
+          MAX_LINES: 10
+
+      - name: Update OSS contributions (merged PRs + issues)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          chmod +x scripts/update-oss.sh
+          ./scripts/update-oss.sh
+
+      - name: Commit OSS section
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || (git commit -m "chore: update OSS contributions section" && git push)

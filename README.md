@@ -24,20 +24,28 @@
 
 ---
 
-### 🌍 Open Source Contributions
+### 🌍 Open Source
 
-Contributions I've made or am actively working on across major open-source projects:
+<h3 align="center">
+  📖 I document my open-source journey on my blog —<br>
+  <a href="https://suhailopensource.vercel.app/">OpenSource Journal ↗</a>
+</h3>
 
-| Project | Contribution | Type |
-| :------ | :----------- | :--- |
-| **[Directus](https://github.com/directus/directus)** | [PR #27986](https://github.com/directus/directus/pull/27986) — merged contribution to the headless CMS | 🟢 Merged |
-| **[Directus](https://github.com/directus/directus)** | [#27657](https://github.com/directus/directus/issues/27657) — datetime-from-relation raw display fix (O2M/alias path) | 🟡 In progress |
-| **[Eclipse Theia](https://github.com/eclipse-theia/theia)** | Issues #17823 · #17810 · #17771 — cloud & desktop IDE framework | 🟡 In progress |
-| **[Convex](https://github.com/get-convex/convex-backend)** | [#510](https://github.com/get-convex/convex-backend/issues/510) — `URL.canParse` support in the backend | 🟡 In progress |
+<br>
 
-> 📖 I document my open-source journey on my blog — **[OpenSource Journal](https://suhailopensource.vercel.app/)**
+<table>
+<tr>
+<td valign="top" width="50%">
 
-#### ⚡ Recent activity <sub>(auto-updated)</sub>
+**🔀 Merged PRs to open-source projects** <sub>· auto-updated</sub>
+
+<!--START_SECTION:oss-->
+<!--END_SECTION:oss-->
+
+</td>
+<td valign="top" width="50%">
+
+**⚡ Recent GitHub activity** <sub>· auto-updated</sub>
 
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#1](https://github.com/harisyousuf25/FootyPlanner/issues/1) in [harisyousuf25/FootyPlanner](https://github.com/harisyousuf25/FootyPlanner)
@@ -46,6 +54,10 @@ Contributions I've made or am actively working on across major open-source proje
 4. 🗣 Commented on [#27657](https://github.com/directus/directus/issues/27657#issuecomment-5128090723) in [directus/directus](https://github.com/directus/directus)
 5. 🗣 Commented on [#29623](https://github.com/TryGhost/Ghost/issues/29623#issuecomment-5127544223) in [TryGhost/Ghost](https://github.com/TryGhost/Ghost)
 <!--END_SECTION:activity-->
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -87,13 +99,6 @@ Contributions I've made or am actively working on across major open-source proje
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suhailopensource&theme=tokyonight" alt="repos per language"/>
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suhailopensource&theme=tokyonight" alt="most commit language"/>
-</p>
-
-<!-- Optional flair — these come from a heavily rate-limited public host, so they
-     often show broken in previews but usually render fine on your live GitHub profile.
-     Delete this block if you prefer guaranteed-reliable stats only. -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suhailopensource&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="trophies"/>
 </p>
 
 ---
