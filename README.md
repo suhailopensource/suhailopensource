@@ -40,6 +40,11 @@ Contributions I've made or am actively working on across major open-source proje
 #### ⚡ Recent activity <sub>(auto-updated)</sub>
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#1](https://github.com/harisyousuf25/FootyPlanner/issues/1) in [harisyousuf25/FootyPlanner](https://github.com/harisyousuf25/FootyPlanner)
+2. 🎉 Merged PR [#17833](https://github.com/eclipse-theia/theia/pull/17833) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
+3. 🗣 Commented on [#27657](https://github.com/directus/directus/issues/27657#issuecomment-5128205784) in [directus/directus](https://github.com/directus/directus)
+4. 🗣 Commented on [#27657](https://github.com/directus/directus/issues/27657#issuecomment-5128090723) in [directus/directus](https://github.com/directus/directus)
+5. 🗣 Commented on [#29623](https://github.com/TryGhost/Ghost/issues/29623#issuecomment-5127544223) in [TryGhost/Ghost](https://github.com/TryGhost/Ghost)
 <!--END_SECTION:activity-->
 
 ---
