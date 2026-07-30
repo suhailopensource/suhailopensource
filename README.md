@@ -1,41 +1,96 @@
-![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
+<h1 align="center">Hi 👋, I'm Syed Suhail Ahmed</h1>
 
-<h1 align="center">Hi 👋, I'm SYED SUHAIL AHMED</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suhailopensource&label=Profile%20views&color=0e75b6&style=flat" alt="suhailopensource" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **MY PORTFOLIO**
-
-- 🌱 I’m currently learning **Node js, python, React js**
-
-- 💬 Ask me about **C++, C, WEB development**
-
-- 👨‍💻 Most of my projects are available at (USE DESKTOP FOR BEST EXPERIENCE)<br> 
-   [https://suhailopensource.vercel.app/](https://suhailopensource.vercel.app/)
-
-- 📫 How to reach me **suhailcollegemail@gmail.com**
-
-- ⚡ Fun fact **I HAVE GOOD HUMOUR AND I JUST STARTED CODING.**
-
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suhailopensource" alt="suhailopensource" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-   <a href="https://www.linkedin.com/in/syed-suhail-350a7525a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/syed-suhail-350a7525a/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/suhailcollqt2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/suhailcollqt2" height="30" width="40" /></a>
+<p align="center">
+  <b>Full-stack developer · Open-source contributor · Product Development Engineer @ SurveySparrow</b><br>
+  Final-year B.Tech IT · Building with TypeScript, Next.js & Node — and shipping to real OSS projects.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrPZLAb1VB-vSwAFPSBTV6yjO4IZPM-qTzp3nwdmErgg&s" alt="express.js" width="60" height="40" filter="invert(1)"/> </a>  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a>  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><br> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.vitTDjdqaVFacKi1GFdldQHaDU?w=284&h=156&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="nextjs" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/syed-suhail-350a7525a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://suhailopensource.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:suhailcollegemail@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=suhailopensource&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views"/>
+</p>
 
+---
 
+### 👨‍💻 About me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suhailopensource&show_icons=true&locale=en" alt="suhailopensource" /></p>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suhailopensource&theme=monokai" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suhailopensource&theme=monokai" height="180em" />
+- 🔭 Working as a **Product Development Engineer intern at SurveySparrow** on **ThriveSparrow**
+- 🌱 Deep-diving into **system design, DSA, and open-source contribution** as I target **SDE roles for 2026**
+- 🤝 I contribute to large TypeScript codebases — **Convex, Eclipse Theia, and Directus**
+- 💬 Ask me about **TypeScript, Next.js, Node.js, and contributing to open source**
+- ⚡ Fun fact: **most of what I know, I learned by breaking (and fixing) real production-grade repos**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suhailopensource&" alt="suhailopensource" /></p>
+---
+
+### 🌍 Open Source Contributions
+
+Contributions I've made or am actively working on across major open-source projects:
+
+| Project | Contribution | Type |
+| :------ | :----------- | :--- |
+| **[Directus](https://github.com/directus/directus)** | [PR #27986](https://github.com/directus/directus/pull/27986) — merged contribution to the headless CMS | 🟢 Merged |
+| **[Directus](https://github.com/directus/directus)** | [#27657](https://github.com/directus/directus/issues/27657) — datetime-from-relation raw display fix (O2M/alias path) | 🟡 In progress |
+| **[Eclipse Theia](https://github.com/eclipse-theia/theia)** | Issues #17823 · #17810 · #17771 — cloud & desktop IDE framework | 🟡 In progress |
+| **[Convex](https://github.com/get-convex/convex-backend)** | [#510](https://github.com/get-convex/convex-backend/issues/510) — `URL.canParse` support in the backend | 🟡 In progress |
+
+> 📖 I document my open-source journey on my blog — **[OpenSource Journal](https://suhailopensource.vercel.app/)**
+
+#### ⚡ Recent activity <sub>(auto-updated)</sub>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,cpp,c,python" />
+</p>
+
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,bootstrap,html,css" />
+</p>
+
+**Backend & Data**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,firebase,postgres" />
+</p>
+
+**Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,figma,postman,vercel" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suhailopensource&theme=tokyonight" alt="profile details"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suhailopensource&theme=tokyonight" alt="stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suhailopensource&theme=tokyonight&utcOffset=8" alt="productive time"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suhailopensource&theme=tokyonight" alt="repos per language"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suhailopensource&theme=tokyonight" alt="most commit language"/>
+</p>
+
+<!-- Optional flair — these come from a heavily rate-limited public host, so they
+     often show broken in previews but usually render fine on your live GitHub profile.
+     Delete this block if you prefer guaranteed-reliable stats only. -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=suhailopensource&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="trophies"/>
+</p>
+
+---
+
+<p align="center"><i>Always open to collaborating on open source and interesting product problems. Let's build something.</i></p>
