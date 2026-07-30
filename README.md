@@ -40,6 +40,10 @@
 **🔀 Merged PRs to open-source projects** <sub>· auto-updated</sub>
 
 <!--START_SECTION:oss-->
+- **[eclipse-theia/theia](https://github.com/eclipse-theia/theia)** [#17833](https://github.com/eclipse-theia/theia/pull/17833) — fix(toolbar): update application toolbar enablement on widget and c...
+- **[etro-js/etro](https://github.com/etro-js/etro)** [#359](https://github.com/etro-js/etro/pull/359) — chore: remove jsdoc and doc generation script
+- **[eclipse-theia/theia](https://github.com/eclipse-theia/theia)** [#17824](https://github.com/eclipse-theia/theia/pull/17824) — Scope markdown preview header styles to .markdown-preview
+- **[VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)** [#523](https://github.com/VoidenHQ/voiden/pull/523) — fix: parse YAML env files in runner --env option
 <!--END_SECTION:oss-->
 
 </td>
