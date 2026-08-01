@@ -53,11 +53,11 @@
 **⚡ Recent GitHub activity** <sub>· auto-updated</sub>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28007](https://github.com/directus/directus/issues/28007#issuecomment-5134047118) in [directus/directus](https://github.com/directus/directus)
-2. 🗣 Commented on [#1314](https://github.com/testing-library/user-event/issues/1314#issuecomment-5133900380) in [testing-library/user-event](https://github.com/testing-library/user-event)
-3. 🗣 Commented on [#515](https://github.com/get-convex/convex-backend/issues/515#issuecomment-5133761296) in [get-convex/convex-backend](https://github.com/get-convex/convex-backend)
-4. ℹ️ Labeled issue [#4](https://github.com/suhailopensource/prefID/issues/4) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
-5. 🗣 Commented on [#3](https://github.com/suhailopensource/prefID/issues/3#issuecomment-5133631012) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+1. 🗣 Commented on [#17861](https://github.com/eclipse-theia/theia/issues/17861#issuecomment-5145505540) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
+2. 🗣 Commented on [#17861](https://github.com/eclipse-theia/theia/issues/17861#issuecomment-5145085255) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
+3. 🗣 Commented on [#17861](https://github.com/eclipse-theia/theia/issues/17861#issuecomment-5144757836) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
+4. 🗣 Commented on [#17861](https://github.com/eclipse-theia/theia/issues/17861#issuecomment-5144611520) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
+5. 🗣 Commented on [#17861](https://github.com/eclipse-theia/theia/issues/17861#issuecomment-5144541787) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
 <!--END_SECTION:activity-->
 
 </td>
