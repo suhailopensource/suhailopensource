@@ -53,11 +53,11 @@
 **⚡ Recent GitHub activity** <sub>· auto-updated</sub>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17861](https://github.com/eclipse-theia/theia/issues/17861#issuecomment-5145505540) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
-2. 🗣 Commented on [#17861](https://github.com/eclipse-theia/theia/issues/17861#issuecomment-5145085255) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
-3. 🗣 Commented on [#17861](https://github.com/eclipse-theia/theia/issues/17861#issuecomment-5144757836) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
-4. 🗣 Commented on [#17861](https://github.com/eclipse-theia/theia/issues/17861#issuecomment-5144611520) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
-5. 🗣 Commented on [#17861](https://github.com/eclipse-theia/theia/issues/17861#issuecomment-5144541787) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
+1. 🗣 Commented on [#289](https://github.com/storybookjs/addon-designs/issues/289#issuecomment-5151256187) in [storybookjs/addon-designs](https://github.com/storybookjs/addon-designs)
+2. 🗣 Commented on [#17861](https://github.com/eclipse-theia/theia/issues/17861#issuecomment-5145505540) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
+3. 🗣 Commented on [#17861](https://github.com/eclipse-theia/theia/issues/17861#issuecomment-5145085255) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
+4. 🗣 Commented on [#17861](https://github.com/eclipse-theia/theia/issues/17861#issuecomment-5144757836) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
+5. 🗣 Commented on [#17861](https://github.com/eclipse-theia/theia/issues/17861#issuecomment-5144611520) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
 <!--END_SECTION:activity-->
 
 </td>
