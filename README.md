@@ -91,22 +91,6 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suhailopensource&theme=tokyonight" alt="profile details"/>
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suhailopensource&theme=tokyonight" alt="stats"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suhailopensource&theme=tokyonight&utcOffset=8" alt="productive time"/>
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suhailopensource&theme=tokyonight" alt="repos per language"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suhailopensource&theme=tokyonight" alt="most commit language"/>
-</p>
-
----
 
 <p align="center"><i>Always open to collaborating on open source and interesting product problems. Let's build something.</i></p>
