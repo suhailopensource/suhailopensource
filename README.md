@@ -53,11 +53,11 @@
 **⚡ Recent GitHub activity** <sub>· auto-updated</sub>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27986](https://github.com/directus/directus/issues/27986#issuecomment-5169349368) in [directus/directus](https://github.com/directus/directus)
-2. ℹ️ Assigned PR [#2](https://github.com/suhailopensource/prefID/pull/2) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
-3. 🗣 Commented on [#342](https://github.com/etro-js/etro/issues/342#issuecomment-5166744916) in [etro-js/etro](https://github.com/etro-js/etro)
-4. 🗣 Commented on [#5213](https://github.com/mathesar-foundation/mathesar/issues/5213#issuecomment-5166524995) in [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar)
-5. 🗣 Commented on [#531](https://github.com/VoidenHQ/voiden/issues/531#issuecomment-5166389282) in [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)
+1. 🎉 Merged PR [#28001](https://github.com/directus/directus/pull/28001) in [directus/directus](https://github.com/directus/directus)
+2. 🗣 Commented on [#4482](https://github.com/triggerdotdev/trigger.dev/issues/4482#issuecomment-5176935163) in [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
+3. 🗣 Commented on [#29595](https://github.com/TryGhost/Ghost/issues/29595#issuecomment-5175923698) in [TryGhost/Ghost](https://github.com/TryGhost/Ghost)
+4. 🗣 Commented on [#29595](https://github.com/TryGhost/Ghost/issues/29595#issuecomment-5175918669) in [TryGhost/Ghost](https://github.com/TryGhost/Ghost)
+5. 💪 Opened PR [#29734](https://github.com/TryGhost/Ghost/pull/29734) in [TryGhost/Ghost](https://github.com/TryGhost/Ghost)
 <!--END_SECTION:activity-->
 
 </td>
