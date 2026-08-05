@@ -41,6 +41,7 @@
 
 <!--START_SECTION:oss-->
 - **[TryGhost/Ghost](https://github.com/TryGhost/Ghost)** [#29681](https://github.com/TryGhost/Ghost/pull/29681) — 🐛 Fixed feature image alt text silently disappearing when too long
+- **[directus/directus](https://github.com/directus/directus)** [#28001](https://github.com/directus/directus/pull/28001) — Allow single-row translation updates that include key and language
 - **[eclipse-theia/theia](https://github.com/eclipse-theia/theia)** [#17833](https://github.com/eclipse-theia/theia/pull/17833) — fix(toolbar): update application toolbar enablement on widget and c...
 - **[etro-js/etro](https://github.com/etro-js/etro)** [#359](https://github.com/etro-js/etro/pull/359) — chore: remove jsdoc and doc generation script
 - **[eclipse-theia/theia](https://github.com/eclipse-theia/theia)** [#17824](https://github.com/eclipse-theia/theia/pull/17824) — Scope markdown preview header styles to .markdown-preview
