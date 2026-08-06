@@ -54,11 +54,11 @@
 **⚡ Recent GitHub activity** <sub>· auto-updated</sub>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28001](https://github.com/directus/directus/pull/28001) in [directus/directus](https://github.com/directus/directus)
-2. 🗣 Commented on [#4482](https://github.com/triggerdotdev/trigger.dev/issues/4482#issuecomment-5176935163) in [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
-3. 🗣 Commented on [#29595](https://github.com/TryGhost/Ghost/issues/29595#issuecomment-5175923698) in [TryGhost/Ghost](https://github.com/TryGhost/Ghost)
-4. 🗣 Commented on [#29595](https://github.com/TryGhost/Ghost/issues/29595#issuecomment-5175918669) in [TryGhost/Ghost](https://github.com/TryGhost/Ghost)
-5. 💪 Opened PR [#29734](https://github.com/TryGhost/Ghost/pull/29734) in [TryGhost/Ghost](https://github.com/TryGhost/Ghost)
+1. 🗣 Commented on [#50](https://github.com/cloudflare/computer/issues/50#issuecomment-5195420392) in [cloudflare/computer](https://github.com/cloudflare/computer)
+2. 🗣 Commented on [#17893](https://github.com/eclipse-theia/theia/issues/17893#issuecomment-5194567234) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
+3. 🗣 Commented on [#17893](https://github.com/eclipse-theia/theia/issues/17893#issuecomment-5193719383) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
+4. 🗣 Commented on [#17893](https://github.com/eclipse-theia/theia/issues/17893#issuecomment-5192555806) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
+5. 🗣 Commented on [#286](https://github.com/etro-js/etro/issues/286#issuecomment-5190655157) in [etro-js/etro](https://github.com/etro-js/etro)
 <!--END_SECTION:activity-->
 
 </td>
