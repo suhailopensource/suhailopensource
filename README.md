@@ -16,8 +16,8 @@
 
 ### 👨‍💻 About me
 
-- 🔭 Working as a **Product Development Engineer intern at SurveySparrow** on **ThriveSparrow**
-- 🌱 Deep-diving into **system design, DSA, and open-source contribution** as I target **SDE roles for 2026**
+- 🔭 Working as a **Product Development Engineer at SurveySparrow** Building **ThriveSparrow**
+- 🌱 Deep-diving into **system design, DSA, and open-source contribution** 
 - 🤝 I contribute to large TypeScript codebases — **Convex, Eclipse Theia, and Directus**
 - 💬 Ask me about **TypeScript, Next.js, Node.js, and contributing to open source**
 - ⚡ Fun fact: **most of what I know, I learned by breaking (and fixing) real production-grade repos**
