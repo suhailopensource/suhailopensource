@@ -55,11 +55,11 @@
 **⚡ Recent GitHub activity** <sub>· auto-updated</sub>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28036](https://github.com/directus/directus/issues/28036#issuecomment-5207198183) in [directus/directus](https://github.com/directus/directus)
-2. 🗣 Commented on [#28036](https://github.com/directus/directus/issues/28036#issuecomment-5206963534) in [directus/directus](https://github.com/directus/directus)
-3. 🗣 Commented on [#286](https://github.com/etro-js/etro/issues/286#issuecomment-5205456465) in [etro-js/etro](https://github.com/etro-js/etro)
-4. 🗣 Commented on [#7152](https://github.com/dream-num/univer/issues/7152#issuecomment-5205443205) in [dream-num/univer](https://github.com/dream-num/univer)
-5. 🗣 Commented on [#17854](https://github.com/eclipse-theia/theia/issues/17854#issuecomment-5204619342) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
+1. 💪 Opened PR [#120217](https://github.com/openclaw/openclaw/pull/120217) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
+2. 🎉 Merged PR [#363](https://github.com/etro-js/etro/pull/363) in [etro-js/etro](https://github.com/etro-js/etro)
+3. 🗣 Commented on [#28036](https://github.com/directus/directus/issues/28036#issuecomment-5207198183) in [directus/directus](https://github.com/directus/directus)
+4. 🗣 Commented on [#28036](https://github.com/directus/directus/issues/28036#issuecomment-5206963534) in [directus/directus](https://github.com/directus/directus)
+5. 🗣 Commented on [#286](https://github.com/etro-js/etro/issues/286#issuecomment-5205456465) in [etro-js/etro](https://github.com/etro-js/etro)
 <!--END_SECTION:activity-->
 
 </td>
