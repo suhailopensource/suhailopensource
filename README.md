@@ -40,6 +40,7 @@
 **🔀 Merged PRs to open-source projects** <sub>· auto-updated</sub>
 
 <!--START_SECTION:oss-->
+- **[etro-js/etro](https://github.com/etro-js/etro)** [#363](https://github.com/etro-js/etro/pull/363) — :bug: Clear the transform effect's scratch canvas between frames
 - **[etro-js/etro](https://github.com/etro-js/etro)** [#362](https://github.com/etro-js/etro/pull/362) — :zap: Skip redundant per-frame canvas reset on visual layers
 - **[TryGhost/Ghost](https://github.com/TryGhost/Ghost)** [#29681](https://github.com/TryGhost/Ghost/pull/29681) — 🐛 Fixed feature image alt text silently disappearing when too long
 - **[directus/directus](https://github.com/directus/directus)** [#28001](https://github.com/directus/directus/pull/28001) — Allow single-row translation updates that include key and language
