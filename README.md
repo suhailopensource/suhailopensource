@@ -42,6 +42,7 @@
 <!--START_SECTION:oss-->
 - **[etro-js/etro](https://github.com/etro-js/etro)** [#363](https://github.com/etro-js/etro/pull/363) — :bug: Clear the transform effect's scratch canvas between frames
 - **[etro-js/etro](https://github.com/etro-js/etro)** [#362](https://github.com/etro-js/etro/pull/362) — :zap: Skip redundant per-frame canvas reset on visual layers
+- **[up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net)** [#5992](https://github.com/up-for-grabs/up-for-grabs.net/pull/5992) — Adding my new project
 - **[TryGhost/Ghost](https://github.com/TryGhost/Ghost)** [#29681](https://github.com/TryGhost/Ghost/pull/29681) — 🐛 Fixed feature image alt text silently disappearing when too long
 - **[directus/directus](https://github.com/directus/directus)** [#28001](https://github.com/directus/directus/pull/28001) — Allow single-row translation updates that include key and language
 - **[eclipse-theia/theia](https://github.com/eclipse-theia/theia)** [#17833](https://github.com/eclipse-theia/theia/pull/17833) — fix(toolbar): update application toolbar enablement on widget and c...
