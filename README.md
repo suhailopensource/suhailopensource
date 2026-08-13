@@ -56,11 +56,11 @@
 **⚡ Recent GitHub activity** <sub>· auto-updated</sub>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#120217](https://github.com/openclaw/openclaw/pull/120217) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
-2. 🎉 Merged PR [#363](https://github.com/etro-js/etro/pull/363) in [etro-js/etro](https://github.com/etro-js/etro)
-3. 🗣 Commented on [#28036](https://github.com/directus/directus/issues/28036#issuecomment-5207198183) in [directus/directus](https://github.com/directus/directus)
-4. 🗣 Commented on [#28036](https://github.com/directus/directus/issues/28036#issuecomment-5206963534) in [directus/directus](https://github.com/directus/directus)
-5. 🗣 Commented on [#286](https://github.com/etro-js/etro/issues/286#issuecomment-5205456465) in [etro-js/etro](https://github.com/etro-js/etro)
+1. 🎉 Merged PR [#5992](https://github.com/up-for-grabs/up-for-grabs.net/pull/5992) in [up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net)
+2. 💪 Opened PR [#425](https://github.com/get-convex/better-auth/pull/425) in [get-convex/better-auth](https://github.com/get-convex/better-auth)
+3. 🗣 Commented on [#530](https://github.com/VoidenHQ/voiden/pull/530#issuecomment-5264726206) in [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)
+4. 💪 Opened PR [#120217](https://github.com/openclaw/openclaw/pull/120217) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
+5. 🎉 Merged PR [#363](https://github.com/etro-js/etro/pull/363) in [etro-js/etro](https://github.com/etro-js/etro)
 <!--END_SECTION:activity-->
 
 </td>
