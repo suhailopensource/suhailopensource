@@ -57,11 +57,11 @@
 **⚡ Recent GitHub activity** <sub>· auto-updated</sub>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#511](https://github.com/get-convex/convex-backend/pull/511#issuecomment-5295804901) in [get-convex/convex-backend](https://github.com/get-convex/convex-backend)
-2. ❌ Closed PR [#511](https://github.com/get-convex/convex-backend/pull/511) in [get-convex/convex-backend](https://github.com/get-convex/convex-backend)
-3. 🗣 Commented on [#14413](https://github.com/nocodb/nocodb/issues/14413#issuecomment-5295686710) in [nocodb/nocodb](https://github.com/nocodb/nocodb)
-4. ❗ Opened issue [#14413](https://github.com/nocodb/nocodb/issues/14413) in [nocodb/nocodb](https://github.com/nocodb/nocodb)
-5. ℹ️ Labeled issue [#15](https://github.com/suhailopensource/prefID/issues/15) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+1. 🗣 Commented on [#16](https://github.com/suhailopensource/prefID/pull/16#issuecomment-5303877189) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+2. 💪 Opened PR [#786](https://github.com/GoogleChrome/web-vitals/pull/786) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
+3. 🗣 Commented on [#785](https://github.com/GoogleChrome/web-vitals/issues/785#issuecomment-5302664821) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
+4. 🔒 Closed issue [#1](https://github.com/harisyousuf25/FootyPlanner/issues/1) in [harisyousuf25/FootyPlanner](https://github.com/harisyousuf25/FootyPlanner)
+5. 🔒 Closed issue [#1](https://github.com/hkirat/eth-contracts/issues/1) in [hkirat/eth-contracts](https://github.com/hkirat/eth-contracts)
 <!--END_SECTION:activity-->
 
 </td>
