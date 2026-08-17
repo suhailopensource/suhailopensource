@@ -57,11 +57,11 @@
 **⚡ Recent GitHub activity** <sub>· auto-updated</sub>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/suhailopensource/prefID/pull/16#issuecomment-5303877189) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
-2. 💪 Opened PR [#786](https://github.com/GoogleChrome/web-vitals/pull/786) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
-3. 🗣 Commented on [#785](https://github.com/GoogleChrome/web-vitals/issues/785#issuecomment-5302664821) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
-4. 🔒 Closed issue [#1](https://github.com/harisyousuf25/FootyPlanner/issues/1) in [harisyousuf25/FootyPlanner](https://github.com/harisyousuf25/FootyPlanner)
-5. 🔒 Closed issue [#1](https://github.com/hkirat/eth-contracts/issues/1) in [hkirat/eth-contracts](https://github.com/hkirat/eth-contracts)
+1. ℹ️ Labeled issue [#17](https://github.com/suhailopensource/prefID/issues/17) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+2. ℹ️ Labeled issue [#17](https://github.com/suhailopensource/prefID/issues/17) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+3. ℹ️ Labeled issue [#17](https://github.com/suhailopensource/prefID/issues/17) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+4. ❗ Opened issue [#17](https://github.com/suhailopensource/prefID/issues/17) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+5. 🔒 Closed issue [#15](https://github.com/suhailopensource/prefID/issues/15) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
 <!--END_SECTION:activity-->
 
 </td>
