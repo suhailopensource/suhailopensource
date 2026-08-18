@@ -57,11 +57,11 @@
 **⚡ Recent GitHub activity** <sub>· auto-updated</sub>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#17](https://github.com/suhailopensource/prefID/issues/17) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
-2. ℹ️ Labeled issue [#17](https://github.com/suhailopensource/prefID/issues/17) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
-3. ℹ️ Labeled issue [#17](https://github.com/suhailopensource/prefID/issues/17) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
-4. ❗ Opened issue [#17](https://github.com/suhailopensource/prefID/issues/17) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
-5. 🔒 Closed issue [#15](https://github.com/suhailopensource/prefID/issues/15) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+1. ℹ️ Labeled issue [#18306](https://github.com/sequelize/sequelize/issues/18306) in [sequelize/sequelize](https://github.com/sequelize/sequelize)
+2. ❗ Opened issue [#18306](https://github.com/sequelize/sequelize/issues/18306) in [sequelize/sequelize](https://github.com/sequelize/sequelize)
+3. 💪 Opened PR [#549](https://github.com/VoidenHQ/voiden/pull/549) in [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)
+4. 🗣 Commented on [#528](https://github.com/VoidenHQ/voiden/issues/528#issuecomment-5315676880) in [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)
+5. 🗣 Commented on [#528](https://github.com/VoidenHQ/voiden/issues/528#issuecomment-5315479152) in [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)
 <!--END_SECTION:activity-->
 
 </td>
