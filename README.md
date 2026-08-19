@@ -58,11 +58,11 @@
 **⚡ Recent GitHub activity** <sub>· auto-updated</sub>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#18306](https://github.com/sequelize/sequelize/issues/18306) in [sequelize/sequelize](https://github.com/sequelize/sequelize)
-2. ❗ Opened issue [#18306](https://github.com/sequelize/sequelize/issues/18306) in [sequelize/sequelize](https://github.com/sequelize/sequelize)
-3. 💪 Opened PR [#549](https://github.com/VoidenHQ/voiden/pull/549) in [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)
-4. 🗣 Commented on [#528](https://github.com/VoidenHQ/voiden/issues/528#issuecomment-5315676880) in [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)
-5. 🗣 Commented on [#528](https://github.com/VoidenHQ/voiden/issues/528#issuecomment-5315479152) in [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)
+1. 🎉 Merged PR [#549](https://github.com/VoidenHQ/voiden/pull/549) in [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)
+2. 🗣 Commented on [#18306](https://github.com/sequelize/sequelize/issues/18306#issuecomment-5323763253) in [sequelize/sequelize](https://github.com/sequelize/sequelize)
+3. ℹ️ Labeled issue [#18306](https://github.com/sequelize/sequelize/issues/18306) in [sequelize/sequelize](https://github.com/sequelize/sequelize)
+4. ❗ Opened issue [#18306](https://github.com/sequelize/sequelize/issues/18306) in [sequelize/sequelize](https://github.com/sequelize/sequelize)
+5. 💪 Opened PR [#549](https://github.com/VoidenHQ/voiden/pull/549) in [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)
 <!--END_SECTION:activity-->
 
 </td>
