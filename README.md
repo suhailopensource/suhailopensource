@@ -59,11 +59,11 @@
 **⚡ Recent GitHub activity** <sub>· auto-updated</sub>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#549](https://github.com/VoidenHQ/voiden/pull/549) in [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)
-2. 🗣 Commented on [#18306](https://github.com/sequelize/sequelize/issues/18306#issuecomment-5323763253) in [sequelize/sequelize](https://github.com/sequelize/sequelize)
-3. ℹ️ Labeled issue [#18306](https://github.com/sequelize/sequelize/issues/18306) in [sequelize/sequelize](https://github.com/sequelize/sequelize)
-4. ❗ Opened issue [#18306](https://github.com/sequelize/sequelize/issues/18306) in [sequelize/sequelize](https://github.com/sequelize/sequelize)
-5. 💪 Opened PR [#549](https://github.com/VoidenHQ/voiden/pull/549) in [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)
+1. 🗣 Commented on [#3419](https://github.com/elastic/elasticsearch-js/issues/3419#issuecomment-5340151961) in [elastic/elasticsearch-js](https://github.com/elastic/elasticsearch-js)
+2. 🗣 Commented on [#3419](https://github.com/elastic/elasticsearch-js/issues/3419#issuecomment-5340146457) in [elastic/elasticsearch-js](https://github.com/elastic/elasticsearch-js)
+3. 🎉 Merged PR [#549](https://github.com/VoidenHQ/voiden/pull/549) in [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)
+4. 🗣 Commented on [#18306](https://github.com/sequelize/sequelize/issues/18306#issuecomment-5323763253) in [sequelize/sequelize](https://github.com/sequelize/sequelize)
+5. ℹ️ Labeled issue [#18306](https://github.com/sequelize/sequelize/issues/18306) in [sequelize/sequelize](https://github.com/sequelize/sequelize)
 <!--END_SECTION:activity-->
 
 </td>
