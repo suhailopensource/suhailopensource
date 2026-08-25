@@ -59,11 +59,11 @@
 **⚡ Recent GitHub activity** <sub>· auto-updated</sub>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3419](https://github.com/elastic/elasticsearch-js/issues/3419#issuecomment-5365286365) in [elastic/elasticsearch-js](https://github.com/elastic/elasticsearch-js)
-2. 🗣 Commented on [#3419](https://github.com/elastic/elasticsearch-js/issues/3419#issuecomment-5352560668) in [elastic/elasticsearch-js](https://github.com/elastic/elasticsearch-js)
-3. 🗣 Commented on [#3419](https://github.com/elastic/elasticsearch-js/issues/3419#issuecomment-5340151961) in [elastic/elasticsearch-js](https://github.com/elastic/elasticsearch-js)
-4. 🗣 Commented on [#3419](https://github.com/elastic/elasticsearch-js/issues/3419#issuecomment-5340146457) in [elastic/elasticsearch-js](https://github.com/elastic/elasticsearch-js)
-5. 🎉 Merged PR [#549](https://github.com/VoidenHQ/voiden/pull/549) in [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)
+1. 🗣 Commented on [#788](https://github.com/GoogleChrome/web-vitals/issues/788#issuecomment-5399223812) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
+2. 🗣 Commented on [#788](https://github.com/GoogleChrome/web-vitals/issues/788#issuecomment-5398977472) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
+3. ❗ Opened issue [#788](https://github.com/GoogleChrome/web-vitals/issues/788) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
+4. 🎉 Merged PR [#786](https://github.com/GoogleChrome/web-vitals/pull/786) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
+5. 🗣 Commented on [#3419](https://github.com/elastic/elasticsearch-js/issues/3419#issuecomment-5365286365) in [elastic/elasticsearch-js](https://github.com/elastic/elasticsearch-js)
 <!--END_SECTION:activity-->
 
 </td>
