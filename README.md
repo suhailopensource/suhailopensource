@@ -60,11 +60,11 @@
 **⚡ Recent GitHub activity** <sub>· auto-updated</sub>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#788](https://github.com/GoogleChrome/web-vitals/issues/788#issuecomment-5399223812) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
-2. 🗣 Commented on [#788](https://github.com/GoogleChrome/web-vitals/issues/788#issuecomment-5398977472) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
-3. ❗ Opened issue [#788](https://github.com/GoogleChrome/web-vitals/issues/788) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
-4. 🎉 Merged PR [#786](https://github.com/GoogleChrome/web-vitals/pull/786) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
-5. 🗣 Commented on [#3419](https://github.com/elastic/elasticsearch-js/issues/3419#issuecomment-5365286365) in [elastic/elasticsearch-js](https://github.com/elastic/elasticsearch-js)
+1. 🎉 Merged PR [#789](https://github.com/GoogleChrome/web-vitals/pull/789) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
+2. 💪 Opened PR [#789](https://github.com/GoogleChrome/web-vitals/pull/789) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
+3. 🗣 Commented on [#788](https://github.com/GoogleChrome/web-vitals/issues/788#issuecomment-5399223812) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
+4. 🗣 Commented on [#788](https://github.com/GoogleChrome/web-vitals/issues/788#issuecomment-5398977472) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
+5. ❗ Opened issue [#788](https://github.com/GoogleChrome/web-vitals/issues/788) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
 <!--END_SECTION:activity-->
 
 </td>
