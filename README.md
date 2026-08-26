@@ -40,6 +40,7 @@
 **🔀 Merged PRs to open-source projects** <sub>· auto-updated</sub>
 
 <!--START_SECTION:oss-->
+- **[GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)** [#789](https://github.com/GoogleChrome/web-vitals/pull/789) — Fix negative inputDelay in INP attribution
 - **[VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)** [#549](https://github.com/VoidenHQ/voiden/pull/549) — fix: highlight only the current File Explorer selection
 - **[GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)** [#786](https://github.com/GoogleChrome/web-vitals/pull/786) — Fix spurious CLS report of 0 after bfcache restore
 - **[etro-js/etro](https://github.com/etro-js/etro)** [#363](https://github.com/etro-js/etro/pull/363) — :bug: Clear the transform effect's scratch canvas between frames
