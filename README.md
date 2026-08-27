@@ -61,11 +61,11 @@
 **⚡ Recent GitHub activity** <sub>· auto-updated</sub>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#789](https://github.com/GoogleChrome/web-vitals/pull/789) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
-2. 💪 Opened PR [#789](https://github.com/GoogleChrome/web-vitals/pull/789) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
-3. 🗣 Commented on [#788](https://github.com/GoogleChrome/web-vitals/issues/788#issuecomment-5399223812) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
-4. 🗣 Commented on [#788](https://github.com/GoogleChrome/web-vitals/issues/788#issuecomment-5398977472) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
-5. ❗ Opened issue [#788](https://github.com/GoogleChrome/web-vitals/issues/788) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
+1. ❗ Opened issue [#1](https://github.com/Vjay15/Pdfchat/issues/1) in [Vjay15/Pdfchat](https://github.com/Vjay15/Pdfchat)
+2. 🎉 Merged PR [#789](https://github.com/GoogleChrome/web-vitals/pull/789) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
+3. 💪 Opened PR [#789](https://github.com/GoogleChrome/web-vitals/pull/789) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
+4. 🗣 Commented on [#788](https://github.com/GoogleChrome/web-vitals/issues/788#issuecomment-5399223812) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
+5. 🗣 Commented on [#788](https://github.com/GoogleChrome/web-vitals/issues/788#issuecomment-5398977472) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
 <!--END_SECTION:activity-->
 
 </td>
