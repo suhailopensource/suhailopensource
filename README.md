@@ -47,7 +47,7 @@ const suhail = {
 ```
 
 - 🔭 Shipping product features by day, upstream OSS contributions by night.
-- 📝 I write up every contribution on my blog — [**OpenSource Journal ↗**](https://suhailopensource.vercel.app/)
+- 📝 I write up every contribution on my blog — [**OpenSource Journal ↗**](https://suhailopensourceblog.vercel.app/)
 - 💬 Happy to talk TypeScript or how to land your first real OSS PR.
 
 ---
