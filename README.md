@@ -10,7 +10,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,45:6366F1,100:A855F7&height=170&section=header&text=Syed%20Suhail%20Ahmed&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Full-stack%20engineer%20%C2%B7%20I%20find%20real%20bugs%20in%20big%20codebases%20and%20ship%20the%20fix&descAlignY=57&descSize=15" width="100%" alt="Syed Suhail Ahmed" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Product+Development+Engineer+%40+SurveySparrow;TypeScript+%C2%B7+Next.js+%C2%B7+Node+%C2%B7+Postgres;PRs+merged+into+140k%2B+star+open-source+projects;I+report+the+bug%2C+then+I+ship+the+patch" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Product+Development+Engineer+%40+SurveySparrow;TypeScript+%C2%B7+Next.js+%C2%B7+Node+%C2%B7+Postgres;PRs+merged+into+140k%2B+star+open-source+projects" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=6E40C9&center=true&vCenter=true&width=720&lines=Product+Development+Engineer+%40+SurveySparrow;TypeScript+%C2%B7+Next.js+%C2%B7+Node+%C2%B7+Postgres;PRs+merged+into+140k%2B+star+open-source+projects;I+report+the+bug%2C+then+I+ship+the+patch" alt="Full-stack engineer, open-source contributor" />
 </picture>
 
@@ -40,23 +40,21 @@
 ```ts
 const suhail = {
   role:     "Product Development Engineer (intern) @ SurveySparrow — ThriveSparrow",
-  studying: "Final-year B.Tech IT · CGPA 9.1",
-  stack:    ["TypeScript", "Next.js", "Node", "Postgres", "Convex"],
-  doing:    "reading huge OSS codebases until the bug gives itself up",
-  goal:     "SDE roles, 2026",
+  Graduated: "B.Tech IT · CGPA 9.1",
+  stack:    ["All languages (language doesn't matter in the AI world concepts do)"],
+  doing:    "reading huge OSS codebases until the bug gives itself up"
 };
 ```
 
-- 🔭 Shipping product features by day, upstream patches by night.
-- 🧭 My contribution loop: **reproduce → find the mechanism → file the issue → send the fix with tests.**
+- 🔭 Shipping product features by day, upstream OSS contributions by night.
 - 📝 I write up every contribution on my blog — [**OpenSource Journal ↗**](https://suhailopensource.vercel.app/)
-- 💬 Happy to talk TypeScript, debugging strategy, or how to land your first real OSS PR.
+- 💬 Happy to talk TypeScript or how to land your first real OSS PR.
 
 ---
 
 ## 🌍 Open Source
 
-> No drive-by typo PRs. Every entry below is a bug I reproduced, traced to its root cause,
+> No drive-by typo PRs. Every entry below is a something I traced to its root cause,
 > and fixed in someone else's production codebase — reviewed and merged by their maintainers.
 
 <h3 align="center">
@@ -245,7 +243,7 @@ Next.js + Convex blog where I write up every upstream fix — the hunt, not just
 
 ### 🤝 Let's build something
 
-Open to **SDE roles for 2026**, OSS collaboration, and any bug that looks unreproducible.
+Always open to collaborating on open source and interesting product problems. Let's build something.
 
 <a href="https://www.linkedin.com/in/syed-suhail-350a7525a/"><img src="https://img.shields.io/badge/Say%20hi%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:suhailcollegemail@gmail.com"><img src="https://img.shields.io/badge/Drop%20a%20mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
