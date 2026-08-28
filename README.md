@@ -43,6 +43,7 @@
 - **[GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)** [#789](https://github.com/GoogleChrome/web-vitals/pull/789) — Fix negative inputDelay in INP attribution
 - **[VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)** [#549](https://github.com/VoidenHQ/voiden/pull/549) — fix: highlight only the current File Explorer selection
 - **[GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)** [#786](https://github.com/GoogleChrome/web-vitals/pull/786) — Fix spurious CLS report of 0 after bfcache restore
+- **[getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)** [#23429](https://github.com/getsentry/sentry-javascript/pull/23429) — fix(core): Store child span timeout handle in _childSpanTimeoutID
 - **[etro-js/etro](https://github.com/etro-js/etro)** [#363](https://github.com/etro-js/etro/pull/363) — :bug: Clear the transform effect's scratch canvas between frames
 - **[etro-js/etro](https://github.com/etro-js/etro)** [#362](https://github.com/etro-js/etro/pull/362) — :zap: Skip redundant per-frame canvas reset on visual layers
 - **[VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)** [#530](https://github.com/VoidenHQ/voiden/pull/530) — fix: keep File Explorer highlight in sync with the active file
