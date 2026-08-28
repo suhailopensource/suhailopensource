@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,45:6366F1,100:A855F7&height=170&section=header&text=Syed%20Suhail%20Ahmed&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Full-stack%20engineer%20%C2%B7%20I%20find%20real%20bugs%20in%20big%20codebases%20and%20ship%20the%20fix&descAlignY=57&descSize=15" width="100%" alt="Syed Suhail Ahmed" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,45:6366F1,100:A855F7&height=170&section=header&text=Syed%20Suhail%20Ahmed&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Full-stack%20engineer%20%C2%B7%20I%20find%20real%20issues%20in%20big%20codebases%20and%20ship%20the%20fix&descAlignY=57&descSize=15" width="100%" alt="Syed Suhail Ahmed" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Product+Development+Engineer+%40+SurveySparrow;TypeScript+%C2%B7+Next.js+%C2%B7+Node+%C2%B7+Postgres;PRs+merged+into+140k%2B+star+open-source+projects" />
