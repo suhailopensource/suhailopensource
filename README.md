@@ -59,7 +59,7 @@ const suhail = {
 
 <h3 align="center">
   📖 I document my open-source journey on my blog —<br>
-  <a href="https://suhailopensource.vercel.app/">OpenSource Journal ↗</a>
+  <a href="https://suhailopensourceblog.vercel.app/">OpenSource Journal ↗</a>
 </h3>
 
 ### ✅ Every merged pull request
