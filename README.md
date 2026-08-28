@@ -39,7 +39,7 @@
 
 ```ts
 const suhail = {
-  role:     "Product Development Engineer (intern) @ SurveySparrow — ThriveSparrow",
+  role:     "Product Development Engineer @ SurveySparrow — Building ThriveSparrow",
   Graduated: "B.Tech IT · CGPA 9.1",
   stack:    ["All languages (language doesn't matter in the AI world concepts do)"],
   doing:    "reading huge OSS codebases until the bug gives itself up"
