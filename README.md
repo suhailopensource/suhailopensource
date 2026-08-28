@@ -61,11 +61,11 @@
 **⚡ Recent GitHub activity** <sub>· auto-updated</sub>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/Vjay15/Pdfchat/issues/1) in [Vjay15/Pdfchat](https://github.com/Vjay15/Pdfchat)
-2. 🎉 Merged PR [#789](https://github.com/GoogleChrome/web-vitals/pull/789) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
-3. 💪 Opened PR [#789](https://github.com/GoogleChrome/web-vitals/pull/789) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
-4. 🗣 Commented on [#788](https://github.com/GoogleChrome/web-vitals/issues/788#issuecomment-5399223812) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
-5. 🗣 Commented on [#788](https://github.com/GoogleChrome/web-vitals/issues/788#issuecomment-5398977472) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
+1. 🗣 Commented on [#791](https://github.com/GoogleChrome/web-vitals/issues/791#issuecomment-5448777415) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
+2. ❗ Opened issue [#791](https://github.com/GoogleChrome/web-vitals/issues/791) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
+3. 🗣 Commented on [#790](https://github.com/GoogleChrome/web-vitals/issues/790#issuecomment-5441996308) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
+4. ❗ Opened issue [#790](https://github.com/GoogleChrome/web-vitals/issues/790) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
+5. 🗣 Commented on [#23699](https://github.com/getsentry/sentry-javascript/issues/23699#issuecomment-5441047157) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
 <!--END_SECTION:activity-->
 
 </td>
