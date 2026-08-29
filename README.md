@@ -24,11 +24,11 @@
 <br><br>
 
 <!--START_SECTION:stats-->
-<img src="https://img.shields.io/badge/Merged%20PRs-14-8957E5?style=for-the-badge&labelColor=0D1117&logo=git&logoColor=white" alt="stat" />
+<img src="https://img.shields.io/badge/Merged%20PRs-15-8957E5?style=for-the-badge&labelColor=0D1117&logo=git&logoColor=white" alt="stat" />
 <img src="https://img.shields.io/badge/OSS%20Projects-8-2EA043?style=for-the-badge&labelColor=0D1117&logo=opensourceinitiative&logoColor=white" alt="stat" />
 <img src="https://img.shields.io/badge/Combined%20Stars-140k%2B-E3B341?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="stat" />
 <img src="https://img.shields.io/badge/Upstream%20Bugs%20Filed-7-DA3633?style=for-the-badge&labelColor=0D1117&logo=gitbook&logoColor=white" alt="stat" />
-<img src="https://img.shields.io/badge/In%20Review-4-0EA5E9?style=for-the-badge&labelColor=0D1117&logo=githubactions&logoColor=white" alt="stat" />
+<img src="https://img.shields.io/badge/In%20Review-3-0EA5E9?style=for-the-badge&labelColor=0D1117&logo=githubactions&logoColor=white" alt="stat" />
 <!--END_SECTION:stats-->
 
 </div>
@@ -67,6 +67,7 @@ const suhail = {
 <!--START_SECTION:oss-->
 | Merged | Project | ★ | What shipped | PR |
 | :---: | :--- | :---: | :--- | :---: |
+| `2026-08-28` | **[getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)** | `8.7k` | Only end the process session when it is still ok | [`#23725`](https://github.com/getsentry/sentry-javascript/pull/23725) |
 | `2026-08-27` | **[getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)** | `8.7k` | Store child span timeout handle in \_childSpanTimeoutID | [`#23429`](https://github.com/getsentry/sentry-javascript/pull/23429) |
 | `2026-08-25` | **[GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)** | `8.6k` | Fix negative inputDelay in INP attribution | [`#789`](https://github.com/GoogleChrome/web-vitals/pull/789) |
 | `2026-08-24` | **[GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)** | `8.6k` | Fix spurious CLS report of 0 after bfcache restore | [`#786`](https://github.com/GoogleChrome/web-vitals/pull/786) |
@@ -93,7 +94,7 @@ const suhail = {
 | Reported | Project | The bug I found | Status |
 | :---: | :--- | :--- | :---: |
 | `2026-08-27` | **[GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)** | [LCP attribution can report a negative `resourceLoadDuration`](https://github.com/GoogleChrome/web-vitals/issues/790) | 🔎 Open |
-| `2026-08-27` | **[getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)** | [Node: Healthy process sessions are never sent because the beforeExit check is inverted](https://github.com/getsentry/sentry-javascript/issues/23699) | 🔎 Open |
+| `2026-08-27` | **[getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)** | [Node: Healthy process sessions are never sent because the beforeExit check is inverted](https://github.com/getsentry/sentry-javascript/issues/23699) | ✅ Fixed |
 | `2026-08-24` | **[GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)** | [INP attribution can report a negative `inputDelay`](https://github.com/GoogleChrome/web-vitals/issues/788) | ✅ Fixed |
 | `2026-08-17` | **[sequelize/sequelize](https://github.com/sequelize/sequelize)** | [Op.in: \[\] emits IN (NULL) (SQL UNKNOWN, not FALSE), so Op.not around it returns zero rows instead of all rows](https://github.com/sequelize/sequelize/issues/18306) | 🔎 Open |
 | `2026-08-15` | **[GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)** | [onCLS() reports a spurious CLS of 0 after every bfcache restore](https://github.com/GoogleChrome/web-vitals/issues/785) | ✅ Fixed |
@@ -106,12 +107,12 @@ const suhail = {
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23725](https://github.com/getsentry/sentry-javascript/pull/23725#issuecomment-5451267476) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
-2. 💪 Opened PR [#23725](https://github.com/getsentry/sentry-javascript/pull/23725) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
-3. 🗣 Commented on [#23699](https://github.com/getsentry/sentry-javascript/issues/23699#issuecomment-5451151566) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
-4. 🗣 Commented on [#791](https://github.com/GoogleChrome/web-vitals/issues/791#issuecomment-5448777415) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
-5. ❗ Opened issue [#791](https://github.com/GoogleChrome/web-vitals/issues/791) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
-6. 🗣 Commented on [#790](https://github.com/GoogleChrome/web-vitals/issues/790#issuecomment-5441996308) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
+1. 🗣 Commented on [#791](https://github.com/GoogleChrome/web-vitals/issues/791#issuecomment-5451326433) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
+2. 🗣 Commented on [#23725](https://github.com/getsentry/sentry-javascript/pull/23725#issuecomment-5451267476) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
+3. 💪 Opened PR [#23725](https://github.com/getsentry/sentry-javascript/pull/23725) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
+4. 🗣 Commented on [#23699](https://github.com/getsentry/sentry-javascript/issues/23699#issuecomment-5451151566) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
+5. 🗣 Commented on [#791](https://github.com/GoogleChrome/web-vitals/issues/791#issuecomment-5448777415) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
+6. ❗ Opened issue [#791](https://github.com/GoogleChrome/web-vitals/issues/791) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
 <!--END_SECTION:activity-->
 
 ---
