@@ -107,12 +107,12 @@ const suhail = {
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#791](https://github.com/GoogleChrome/web-vitals/issues/791#issuecomment-5451326433) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
-2. 🗣 Commented on [#23725](https://github.com/getsentry/sentry-javascript/pull/23725#issuecomment-5451267476) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
-3. 💪 Opened PR [#23725](https://github.com/getsentry/sentry-javascript/pull/23725) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
-4. 🗣 Commented on [#23699](https://github.com/getsentry/sentry-javascript/issues/23699#issuecomment-5451151566) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
-5. 🗣 Commented on [#791](https://github.com/GoogleChrome/web-vitals/issues/791#issuecomment-5448777415) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
-6. ❗ Opened issue [#791](https://github.com/GoogleChrome/web-vitals/issues/791) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
+1. 🗣 Commented on [#18](https://github.com/suhailopensource/prefID/pull/18#issuecomment-5466909286) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+2. 🔒 Closed issue [#24](https://github.com/suhailopensource/prefID/issues/24) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+3. 👀 Reviewed [#26](https://github.com/suhailopensource/prefID/pull/26) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+4. 🗣 Commented on [#26](https://github.com/suhailopensource/prefID/pull/26#issuecomment-5466899032) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+5. 🗣 Commented on [#26](https://github.com/suhailopensource/prefID/pull/26#issuecomment-5466877837) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+6. 🔒 Closed issue [#22](https://github.com/suhailopensource/prefID/issues/22) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
 <!--END_SECTION:activity-->
 
 ---
