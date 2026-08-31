@@ -24,8 +24,8 @@
 <br><br>
 
 <!--START_SECTION:stats-->
-<img src="https://img.shields.io/badge/Merged%20PRs-15-8957E5?style=for-the-badge&labelColor=0D1117&logo=git&logoColor=white" alt="stat" />
-<img src="https://img.shields.io/badge/OSS%20Projects-8-2EA043?style=for-the-badge&labelColor=0D1117&logo=opensourceinitiative&logoColor=white" alt="stat" />
+<img src="https://img.shields.io/badge/Merged%20PRs-18-8957E5?style=for-the-badge&labelColor=0D1117&logo=git&logoColor=white" alt="stat" />
+<img src="https://img.shields.io/badge/OSS%20Projects-9-2EA043?style=for-the-badge&labelColor=0D1117&logo=opensourceinitiative&logoColor=white" alt="stat" />
 <img src="https://img.shields.io/badge/Combined%20Stars-140k%2B-E3B341?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="stat" />
 <img src="https://img.shields.io/badge/Upstream%20Bugs%20Filed-7-DA3633?style=for-the-badge&labelColor=0D1117&logo=gitbook&logoColor=white" alt="stat" />
 <img src="https://img.shields.io/badge/In%20Review-3-0EA5E9?style=for-the-badge&labelColor=0D1117&logo=githubactions&logoColor=white" alt="stat" />
@@ -67,6 +67,9 @@ const suhail = {
 <!--START_SECTION:oss-->
 | Merged | Project | ★ | What shipped | PR |
 | :---: | :--- | :---: | :--- | :---: |
+| `2026-08-30` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `1` | Update roadmap table in README | [`#3`](https://github.com/scute-db/scutedb/pull/3) |
+| `2026-08-30` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `1` | Add internal/nullbits, and fix three key-encoding defects in codec | [`#2`](https://github.com/scute-db/scutedb/pull/2) |
+| `2026-08-30` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `1` | Add internal/codec: compact value encoding and order-preserving key encoding | [`#1`](https://github.com/scute-db/scutedb/pull/1) |
 | `2026-08-28` | **[getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)** | `8.7k` | Only end the process session when it is still ok | [`#23725`](https://github.com/getsentry/sentry-javascript/pull/23725) |
 | `2026-08-27` | **[getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)** | `8.7k` | Store child span timeout handle in \_childSpanTimeoutID | [`#23429`](https://github.com/getsentry/sentry-javascript/pull/23429) |
 | `2026-08-25` | **[GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)** | `8.6k` | Fix negative inputDelay in INP attribution | [`#789`](https://github.com/GoogleChrome/web-vitals/pull/789) |
@@ -107,12 +110,12 @@ const suhail = {
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/suhailopensource/prefID/pull/18#issuecomment-5466909286) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
-2. 🔒 Closed issue [#24](https://github.com/suhailopensource/prefID/issues/24) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
-3. 👀 Reviewed [#26](https://github.com/suhailopensource/prefID/pull/26) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
-4. 🗣 Commented on [#26](https://github.com/suhailopensource/prefID/pull/26#issuecomment-5466899032) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
-5. 🗣 Commented on [#26](https://github.com/suhailopensource/prefID/pull/26#issuecomment-5466877837) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
-6. 🔒 Closed issue [#22](https://github.com/suhailopensource/prefID/issues/22) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+1. 💪 Opened PR [#3](https://github.com/scute-db/scutedb/pull/3) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
+2. 💪 Opened PR [#2](https://github.com/scute-db/scutedb/pull/2) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
+3. 🗣 Commented on [#25](https://github.com/suhailopensource/prefID/pull/25#issuecomment-5468661591) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+4. 💪 Opened PR [#1](https://github.com/scute-db/scutedb/pull/1) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
+5. 🗣 Commented on [#18](https://github.com/suhailopensource/prefID/pull/18#issuecomment-5466909286) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+6. 🔒 Closed issue [#24](https://github.com/suhailopensource/prefID/issues/24) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
 <!--END_SECTION:activity-->
 
 ---
