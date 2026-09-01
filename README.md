@@ -24,7 +24,7 @@
 <br><br>
 
 <!--START_SECTION:stats-->
-<img src="https://img.shields.io/badge/Merged%20PRs-18-8957E5?style=for-the-badge&labelColor=0D1117&logo=git&logoColor=white" alt="stat" />
+<img src="https://img.shields.io/badge/Merged%20PRs-19-8957E5?style=for-the-badge&labelColor=0D1117&logo=git&logoColor=white" alt="stat" />
 <img src="https://img.shields.io/badge/OSS%20Projects-9-2EA043?style=for-the-badge&labelColor=0D1117&logo=opensourceinitiative&logoColor=white" alt="stat" />
 <img src="https://img.shields.io/badge/Combined%20Stars-140k%2B-E3B341?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="stat" />
 <img src="https://img.shields.io/badge/Upstream%20Bugs%20Filed-7-DA3633?style=for-the-badge&labelColor=0D1117&logo=gitbook&logoColor=white" alt="stat" />
@@ -67,6 +67,7 @@ const suhail = {
 <!--START_SECTION:oss-->
 | Merged | Project | ★ | What shipped | PR |
 | :---: | :--- | :---: | :--- | :---: |
+| `2026-08-31` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `1` | Add internal/slots: fixed-size aligned record slots | [`#4`](https://github.com/scute-db/scutedb/pull/4) |
 | `2026-08-30` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `1` | Update roadmap table in README | [`#3`](https://github.com/scute-db/scutedb/pull/3) |
 | `2026-08-30` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `1` | Add internal/nullbits, and fix three key-encoding defects in codec | [`#2`](https://github.com/scute-db/scutedb/pull/2) |
 | `2026-08-30` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `1` | Add internal/codec: compact value encoding and order-preserving key encoding | [`#1`](https://github.com/scute-db/scutedb/pull/1) |
@@ -110,12 +111,12 @@ const suhail = {
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/scute-db/scutedb/pull/3) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
-2. 💪 Opened PR [#2](https://github.com/scute-db/scutedb/pull/2) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
-3. 🗣 Commented on [#25](https://github.com/suhailopensource/prefID/pull/25#issuecomment-5468661591) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
-4. 💪 Opened PR [#1](https://github.com/scute-db/scutedb/pull/1) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
-5. 🗣 Commented on [#18](https://github.com/suhailopensource/prefID/pull/18#issuecomment-5466909286) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
-6. 🔒 Closed issue [#24](https://github.com/suhailopensource/prefID/issues/24) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+1. 🗣 Commented on [#18307](https://github.com/sequelize/sequelize/pull/18307#issuecomment-5480895132) in [sequelize/sequelize](https://github.com/sequelize/sequelize)
+2. 💪 Opened PR [#4](https://github.com/scute-db/scutedb/pull/4) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
+3. 💪 Opened PR [#3](https://github.com/scute-db/scutedb/pull/3) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
+4. 💪 Opened PR [#2](https://github.com/scute-db/scutedb/pull/2) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
+5. 🗣 Commented on [#25](https://github.com/suhailopensource/prefID/pull/25#issuecomment-5468661591) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+6. 💪 Opened PR [#1](https://github.com/scute-db/scutedb/pull/1) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
 <!--END_SECTION:activity-->
 
 ---
