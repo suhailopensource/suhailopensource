@@ -75,15 +75,15 @@ const suhail = {
 | `2026-08-27` | **[getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)** | `8.7k` | Store child span timeout handle in \_childSpanTimeoutID | [`#23429`](https://github.com/getsentry/sentry-javascript/pull/23429) |
 | `2026-08-25` | **[GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)** | `8.6k` | Fix negative inputDelay in INP attribution | [`#789`](https://github.com/GoogleChrome/web-vitals/pull/789) |
 | `2026-08-24` | **[GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)** | `8.6k` | Fix spurious CLS report of 0 after bfcache restore | [`#786`](https://github.com/GoogleChrome/web-vitals/pull/786) |
-| `2026-08-18` | **[VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)** | `1.6k` | Highlight only the current File Explorer selection | [`#549`](https://github.com/VoidenHQ/voiden/pull/549) |
-| `2026-08-17` | **[VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)** | `1.6k` | Keep File Explorer highlight in sync with the active file | [`#530`](https://github.com/VoidenHQ/voiden/pull/530) |
+| `2026-08-18` | **[VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)** | `1.7k` | Highlight only the current File Explorer selection | [`#549`](https://github.com/VoidenHQ/voiden/pull/549) |
+| `2026-08-17` | **[VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)** | `1.7k` | Keep File Explorer highlight in sync with the active file | [`#530`](https://github.com/VoidenHQ/voiden/pull/530) |
 | `2026-08-12` | **[up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net)** | `6.0k` | List prefID on up-for-grabs.net with curated good-first-issues | [`#5992`](https://github.com/up-for-grabs/up-for-grabs.net/pull/5992) |
 | `2026-08-07` | **[etro-js/etro](https://github.com/etro-js/etro)** | `1.1k` | Clear the transform effect's scratch canvas between frames | [`#363`](https://github.com/etro-js/etro/pull/363) |
 | `2026-08-06` | **[etro-js/etro](https://github.com/etro-js/etro)** | `1.1k` | Skip redundant per-frame canvas reset on visual layers | [`#362`](https://github.com/etro-js/etro/pull/362) |
 | `2026-08-04` | **[directus/directus](https://github.com/directus/directus)** | `37k` | Allow single-row translation updates that include key and language | [`#28001`](https://github.com/directus/directus/pull/28001) |
 | `2026-07-30` | **[TryGhost/Ghost](https://github.com/TryGhost/Ghost)** | `55k` | Fixed feature image alt text silently disappearing when too long | [`#29681`](https://github.com/TryGhost/Ghost/pull/29681) |
 | `2026-07-30` | **[eclipse-theia/theia](https://github.com/eclipse-theia/theia)** | `21k` | Update application toolbar enablement on widget and context changes | [`#17833`](https://github.com/eclipse-theia/theia/pull/17833) |
-| `2026-07-30` | **[VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)** | `1.6k` | Parse YAML env files in runner --env option | [`#523`](https://github.com/VoidenHQ/voiden/pull/523) |
+| `2026-07-30` | **[VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)** | `1.7k` | Parse YAML env files in runner --env option | [`#523`](https://github.com/VoidenHQ/voiden/pull/523) |
 | `2026-07-28` | **[eclipse-theia/theia](https://github.com/eclipse-theia/theia)** | `21k` | Scope markdown preview header styles to .markdown-preview | [`#17824`](https://github.com/eclipse-theia/theia/pull/17824) |
 | `2026-07-27` | **[etro-js/etro](https://github.com/etro-js/etro)** | `1.1k` | Remove jsdoc and doc generation script | [`#359`](https://github.com/etro-js/etro/pull/359) |
 <!--END_SECTION:oss-->
@@ -111,12 +111,12 @@ const suhail = {
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18307](https://github.com/sequelize/sequelize/pull/18307#issuecomment-5480895132) in [sequelize/sequelize](https://github.com/sequelize/sequelize)
-2. 💪 Opened PR [#4](https://github.com/scute-db/scutedb/pull/4) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
-3. 💪 Opened PR [#3](https://github.com/scute-db/scutedb/pull/3) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
-4. 💪 Opened PR [#2](https://github.com/scute-db/scutedb/pull/2) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
-5. 🗣 Commented on [#25](https://github.com/suhailopensource/prefID/pull/25#issuecomment-5468661591) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
-6. 💪 Opened PR [#1](https://github.com/scute-db/scutedb/pull/1) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
+1. 🗣 Commented on [#28](https://github.com/suhailopensource/prefID/pull/28#issuecomment-5535677425) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+2. 🗣 Commented on [#20](https://github.com/suhailopensource/prefID/issues/20#issuecomment-5535657457) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+3. 🗣 Commented on [#17861](https://github.com/eclipse-theia/theia/issues/17861#issuecomment-5535646780) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
+4. 🗣 Commented on [#18307](https://github.com/sequelize/sequelize/pull/18307#issuecomment-5480895132) in [sequelize/sequelize](https://github.com/sequelize/sequelize)
+5. 💪 Opened PR [#4](https://github.com/scute-db/scutedb/pull/4) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
+6. 💪 Opened PR [#3](https://github.com/scute-db/scutedb/pull/3) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
 <!--END_SECTION:activity-->
 
 ---
