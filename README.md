@@ -111,12 +111,12 @@ const suhail = {
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/suhailopensource/prefID/pull/28#issuecomment-5535677425) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
-2. 🗣 Commented on [#20](https://github.com/suhailopensource/prefID/issues/20#issuecomment-5535657457) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
-3. 🗣 Commented on [#17861](https://github.com/eclipse-theia/theia/issues/17861#issuecomment-5535646780) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
-4. 🗣 Commented on [#18307](https://github.com/sequelize/sequelize/pull/18307#issuecomment-5480895132) in [sequelize/sequelize](https://github.com/sequelize/sequelize)
-5. 💪 Opened PR [#4](https://github.com/scute-db/scutedb/pull/4) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
-6. 💪 Opened PR [#3](https://github.com/scute-db/scutedb/pull/3) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
+1. 🗣 Commented on [#23](https://github.com/suhailopensource/prefID/issues/23#issuecomment-5543567018) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+2. 🗣 Commented on [#23](https://github.com/suhailopensource/prefID/issues/23#issuecomment-5543153843) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+3. 🗣 Commented on [#23](https://github.com/suhailopensource/prefID/issues/23#issuecomment-5543145794) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+4. 🗣 Commented on [#21](https://github.com/suhailopensource/prefID/issues/21#issuecomment-5543135554) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+5. 🗣 Commented on [#17861](https://github.com/eclipse-theia/theia/issues/17861#issuecomment-5543075646) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
+6. 🗣 Commented on [#29](https://github.com/suhailopensource/prefID/issues/29#issuecomment-5543068134) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
 <!--END_SECTION:activity-->
 
 ---
