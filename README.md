@@ -24,10 +24,10 @@
 <br><br>
 
 <!--START_SECTION:stats-->
-<img src="https://img.shields.io/badge/Merged%20PRs-19-8957E5?style=for-the-badge&labelColor=0D1117&logo=git&logoColor=white" alt="stat" />
+<img src="https://img.shields.io/badge/Merged%20PRs-20-8957E5?style=for-the-badge&labelColor=0D1117&logo=git&logoColor=white" alt="stat" />
 <img src="https://img.shields.io/badge/OSS%20Projects-9-2EA043?style=for-the-badge&labelColor=0D1117&logo=opensourceinitiative&logoColor=white" alt="stat" />
 <img src="https://img.shields.io/badge/Combined%20Stars-140k%2B-E3B341?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="stat" />
-<img src="https://img.shields.io/badge/Upstream%20Bugs%20Filed-7-DA3633?style=for-the-badge&labelColor=0D1117&logo=gitbook&logoColor=white" alt="stat" />
+<img src="https://img.shields.io/badge/Upstream%20Bugs%20Filed-8-DA3633?style=for-the-badge&labelColor=0D1117&logo=gitbook&logoColor=white" alt="stat" />
 <img src="https://img.shields.io/badge/In%20Review-3-0EA5E9?style=for-the-badge&labelColor=0D1117&logo=githubactions&logoColor=white" alt="stat" />
 <!--END_SECTION:stats-->
 
@@ -67,6 +67,7 @@ const suhail = {
 <!--START_SECTION:oss-->
 | Merged | Project | ★ | What shipped | PR |
 | :---: | :--- | :---: | :--- | :---: |
+| `2026-09-05` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `1` | Add internal/btree: in-memory B+Tree with search, insert and split | [`#5`](https://github.com/scute-db/scutedb/pull/5) |
 | `2026-08-31` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `1` | Add internal/slots: fixed-size aligned record slots | [`#4`](https://github.com/scute-db/scutedb/pull/4) |
 | `2026-08-30` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `1` | Update roadmap table in README | [`#3`](https://github.com/scute-db/scutedb/pull/3) |
 | `2026-08-30` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `1` | Add internal/nullbits, and fix three key-encoding defects in codec | [`#2`](https://github.com/scute-db/scutedb/pull/2) |
@@ -97,6 +98,7 @@ const suhail = {
 <!--START_SECTION:issues-->
 | Reported | Project | The bug I found | Status |
 | :---: | :--- | :--- | :---: |
+| `2026-09-05` | **[getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)** | [Remix: Trailing-underscore route segments leak into transaction names](https://github.com/getsentry/sentry-javascript/issues/24119) | 🔎 Open |
 | `2026-08-27` | **[GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)** | [LCP attribution can report a negative `resourceLoadDuration`](https://github.com/GoogleChrome/web-vitals/issues/790) | 🔎 Open |
 | `2026-08-27` | **[getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)** | [Node: Healthy process sessions are never sent because the beforeExit check is inverted](https://github.com/getsentry/sentry-javascript/issues/23699) | ✅ Fixed |
 | `2026-08-24` | **[GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)** | [INP attribution can report a negative `inputDelay`](https://github.com/GoogleChrome/web-vitals/issues/788) | ✅ Fixed |
@@ -111,12 +113,12 @@ const suhail = {
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/suhailopensource/prefID/issues/23#issuecomment-5543567018) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
-2. 🗣 Commented on [#23](https://github.com/suhailopensource/prefID/issues/23#issuecomment-5543153843) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
-3. 🗣 Commented on [#23](https://github.com/suhailopensource/prefID/issues/23#issuecomment-5543145794) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
-4. 🗣 Commented on [#21](https://github.com/suhailopensource/prefID/issues/21#issuecomment-5543135554) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
-5. 🗣 Commented on [#17861](https://github.com/eclipse-theia/theia/issues/17861#issuecomment-5543075646) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
-6. 🗣 Commented on [#29](https://github.com/suhailopensource/prefID/issues/29#issuecomment-5543068134) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+1. 💪 Opened PR [#5](https://github.com/scute-db/scutedb/pull/5) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
+2. 🗣 Commented on [#24119](https://github.com/getsentry/sentry-javascript/issues/24119#issuecomment-5551260093) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
+3. ❗ Opened issue [#24119](https://github.com/getsentry/sentry-javascript/issues/24119) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
+4. 🔒 Closed issue [#17](https://github.com/suhailopensource/prefID/issues/17) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+5. 👀 Reviewed [#18](https://github.com/suhailopensource/prefID/pull/18) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+6. 🔒 Closed issue [#4](https://github.com/suhailopensource/prefID/issues/4) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
 <!--END_SECTION:activity-->
 
 ---
