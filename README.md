@@ -113,12 +113,12 @@ const suhail = {
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/scute-db/scutedb/pull/5) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
-2. 🗣 Commented on [#24119](https://github.com/getsentry/sentry-javascript/issues/24119#issuecomment-5551260093) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
-3. ❗ Opened issue [#24119](https://github.com/getsentry/sentry-javascript/issues/24119) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
-4. 🔒 Closed issue [#17](https://github.com/suhailopensource/prefID/issues/17) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
-5. 👀 Reviewed [#18](https://github.com/suhailopensource/prefID/pull/18) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
-6. 🔒 Closed issue [#4](https://github.com/suhailopensource/prefID/issues/4) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+1. 🗣 Commented on [#24119](https://github.com/getsentry/sentry-javascript/issues/24119#issuecomment-5567541834) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
+2. 💪 Opened PR [#5](https://github.com/scute-db/scutedb/pull/5) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
+3. 🗣 Commented on [#24119](https://github.com/getsentry/sentry-javascript/issues/24119#issuecomment-5551260093) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
+4. ❗ Opened issue [#24119](https://github.com/getsentry/sentry-javascript/issues/24119) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
+5. 🔒 Closed issue [#17](https://github.com/suhailopensource/prefID/issues/17) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+6. 👀 Reviewed [#18](https://github.com/suhailopensource/prefID/pull/18) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
 <!--END_SECTION:activity-->
 
 ---
