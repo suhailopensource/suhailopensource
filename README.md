@@ -24,11 +24,11 @@
 <br><br>
 
 <!--START_SECTION:stats-->
-<img src="https://img.shields.io/badge/Merged%20PRs-20-8957E5?style=for-the-badge&labelColor=0D1117&logo=git&logoColor=white" alt="stat" />
+<img src="https://img.shields.io/badge/Merged%20PRs-21-8957E5?style=for-the-badge&labelColor=0D1117&logo=git&logoColor=white" alt="stat" />
 <img src="https://img.shields.io/badge/OSS%20Projects-9-2EA043?style=for-the-badge&labelColor=0D1117&logo=opensourceinitiative&logoColor=white" alt="stat" />
 <img src="https://img.shields.io/badge/Combined%20Stars-140k%2B-E3B341?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="stat" />
 <img src="https://img.shields.io/badge/Upstream%20Bugs%20Filed-8-DA3633?style=for-the-badge&labelColor=0D1117&logo=gitbook&logoColor=white" alt="stat" />
-<img src="https://img.shields.io/badge/In%20Review-3-0EA5E9?style=for-the-badge&labelColor=0D1117&logo=githubactions&logoColor=white" alt="stat" />
+<img src="https://img.shields.io/badge/In%20Review-4-0EA5E9?style=for-the-badge&labelColor=0D1117&logo=githubactions&logoColor=white" alt="stat" />
 <!--END_SECTION:stats-->
 
 </div>
@@ -67,6 +67,7 @@ const suhail = {
 <!--START_SECTION:oss-->
 | Merged | Project | ★ | What shipped | PR |
 | :---: | :--- | :---: | :--- | :---: |
+| `2026-09-08` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `1` | Chain the B+Tree leaves and add range scans | [`#6`](https://github.com/scute-db/scutedb/pull/6) |
 | `2026-09-05` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `1` | Add internal/btree: in-memory B+Tree with search, insert and split | [`#5`](https://github.com/scute-db/scutedb/pull/5) |
 | `2026-08-31` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `1` | Add internal/slots: fixed-size aligned record slots | [`#4`](https://github.com/scute-db/scutedb/pull/4) |
 | `2026-08-30` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `1` | Update roadmap table in README | [`#3`](https://github.com/scute-db/scutedb/pull/3) |
@@ -98,13 +99,13 @@ const suhail = {
 <!--START_SECTION:issues-->
 | Reported | Project | The bug I found | Status |
 | :---: | :--- | :--- | :---: |
-| `2026-09-05` | **[getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)** | [Remix: Trailing-underscore route segments leak into transaction names](https://github.com/getsentry/sentry-javascript/issues/24119) | 🔎 Open |
+| `2026-09-05` | **[getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)** | [Remix: Trailing-underscore route segments leak into transaction names](https://github.com/getsentry/sentry-javascript/issues/24119) | ✅ Fixed |
 | `2026-08-27` | **[GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)** | [LCP attribution can report a negative `resourceLoadDuration`](https://github.com/GoogleChrome/web-vitals/issues/790) | 🔎 Open |
 | `2026-08-27` | **[getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)** | [Node: Healthy process sessions are never sent because the beforeExit check is inverted](https://github.com/getsentry/sentry-javascript/issues/23699) | ✅ Fixed |
 | `2026-08-24` | **[GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)** | [INP attribution can report a negative `inputDelay`](https://github.com/GoogleChrome/web-vitals/issues/788) | ✅ Fixed |
 | `2026-08-17` | **[sequelize/sequelize](https://github.com/sequelize/sequelize)** | [Op.in: \[\] emits IN (NULL) (SQL UNKNOWN, not FALSE), so Op.not around it returns zero rows instead of all rows](https://github.com/sequelize/sequelize/issues/18306) | 🔎 Open |
 | `2026-08-15` | **[GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)** | [onCLS() reports a spurious CLS of 0 after every bfcache restore](https://github.com/GoogleChrome/web-vitals/issues/785) | ✅ Fixed |
-| `2026-08-14` | **[nocodb/nocodb](https://github.com/nocodb/nocodb)** | [Bug: Currency field silently drops the minus sign on paste (default en-US locale)](https://github.com/nocodb/nocodb/issues/14413) | 🔎 Open |
+| `2026-08-14` | **[nocodb/nocodb](https://github.com/nocodb/nocodb)** | [Bug: Currency field silently drops the minus sign on paste (default en-US locale)](https://github.com/nocodb/nocodb/issues/14413) | ✅ Fixed |
 | `2026-08-13` | **[getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)** | [Core: Idle span ends early because \_restartChildSpanTimeout writes its handle to \_idleTimeoutID](https://github.com/getsentry/sentry-javascript/issues/23404) | ✅ Fixed |
 <!--END_SECTION:issues-->
 
@@ -113,12 +114,12 @@ const suhail = {
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24119](https://github.com/getsentry/sentry-javascript/issues/24119#issuecomment-5567541834) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
-2. 💪 Opened PR [#5](https://github.com/scute-db/scutedb/pull/5) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
-3. 🗣 Commented on [#24119](https://github.com/getsentry/sentry-javascript/issues/24119#issuecomment-5551260093) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
-4. ❗ Opened issue [#24119](https://github.com/getsentry/sentry-javascript/issues/24119) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
-5. 🔒 Closed issue [#17](https://github.com/suhailopensource/prefID/issues/17) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
-6. 👀 Reviewed [#18](https://github.com/suhailopensource/prefID/pull/18) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+1. 💪 Opened PR [#7](https://github.com/scute-db/scutedb/pull/7) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
+2. 💪 Opened PR [#6](https://github.com/scute-db/scutedb/pull/6) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
+3. 🗣 Commented on [#24119](https://github.com/getsentry/sentry-javascript/issues/24119#issuecomment-5567541834) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
+4. 💪 Opened PR [#5](https://github.com/scute-db/scutedb/pull/5) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
+5. 🗣 Commented on [#24119](https://github.com/getsentry/sentry-javascript/issues/24119#issuecomment-5551260093) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
+6. ❗ Opened issue [#24119](https://github.com/getsentry/sentry-javascript/issues/24119) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
 <!--END_SECTION:activity-->
 
 ---
