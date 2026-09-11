@@ -26,7 +26,7 @@
 <!--START_SECTION:stats-->
 <img src="https://img.shields.io/badge/Merged%20PRs-21-8957E5?style=for-the-badge&labelColor=0D1117&logo=git&logoColor=white" alt="stat" />
 <img src="https://img.shields.io/badge/OSS%20Projects-9-2EA043?style=for-the-badge&labelColor=0D1117&logo=opensourceinitiative&logoColor=white" alt="stat" />
-<img src="https://img.shields.io/badge/Combined%20Stars-140k%2B-E3B341?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="stat" />
+<img src="https://img.shields.io/badge/Combined%20Stars-141k%2B-E3B341?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="stat" />
 <img src="https://img.shields.io/badge/Upstream%20Bugs%20Filed-8-DA3633?style=for-the-badge&labelColor=0D1117&logo=gitbook&logoColor=white" alt="stat" />
 <img src="https://img.shields.io/badge/In%20Review-4-0EA5E9?style=for-the-badge&labelColor=0D1117&logo=githubactions&logoColor=white" alt="stat" />
 <!--END_SECTION:stats-->
