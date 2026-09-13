@@ -24,11 +24,11 @@
 <br><br>
 
 <!--START_SECTION:stats-->
-<img src="https://img.shields.io/badge/Merged%20PRs-21-8957E5?style=for-the-badge&labelColor=0D1117&logo=git&logoColor=white" alt="stat" />
+<img src="https://img.shields.io/badge/Merged%20PRs-22-8957E5?style=for-the-badge&labelColor=0D1117&logo=git&logoColor=white" alt="stat" />
 <img src="https://img.shields.io/badge/OSS%20Projects-9-2EA043?style=for-the-badge&labelColor=0D1117&logo=opensourceinitiative&logoColor=white" alt="stat" />
 <img src="https://img.shields.io/badge/Combined%20Stars-141k%2B-E3B341?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="stat" />
 <img src="https://img.shields.io/badge/Upstream%20Bugs%20Filed-8-DA3633?style=for-the-badge&labelColor=0D1117&logo=gitbook&logoColor=white" alt="stat" />
-<img src="https://img.shields.io/badge/In%20Review-4-0EA5E9?style=for-the-badge&labelColor=0D1117&logo=githubactions&logoColor=white" alt="stat" />
+<img src="https://img.shields.io/badge/In%20Review-3-0EA5E9?style=for-the-badge&labelColor=0D1117&logo=githubactions&logoColor=white" alt="stat" />
 <!--END_SECTION:stats-->
 
 </div>
@@ -67,6 +67,7 @@ const suhail = {
 <!--START_SECTION:oss-->
 | Merged | Project | ★ | What shipped | PR |
 | :---: | :--- | :---: | :--- | :---: |
+| `2026-09-12` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `1` | Add B+Tree deletion with borrowing, merging and root collapse | [`#8`](https://github.com/scute-db/scutedb/pull/8) |
 | `2026-09-08` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `1` | Chain the B+Tree leaves and add range scans | [`#6`](https://github.com/scute-db/scutedb/pull/6) |
 | `2026-09-05` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `1` | Add internal/btree: in-memory B+Tree with search, insert and split | [`#5`](https://github.com/scute-db/scutedb/pull/5) |
 | `2026-08-31` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `1` | Add internal/slots: fixed-size aligned record slots | [`#4`](https://github.com/scute-db/scutedb/pull/4) |
@@ -114,12 +115,12 @@ const suhail = {
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/scute-db/scutedb/pull/7) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
-2. 💪 Opened PR [#6](https://github.com/scute-db/scutedb/pull/6) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
-3. 🗣 Commented on [#24119](https://github.com/getsentry/sentry-javascript/issues/24119#issuecomment-5567541834) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
-4. 💪 Opened PR [#5](https://github.com/scute-db/scutedb/pull/5) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
-5. 🗣 Commented on [#24119](https://github.com/getsentry/sentry-javascript/issues/24119#issuecomment-5551260093) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
-6. ❗ Opened issue [#24119](https://github.com/getsentry/sentry-javascript/issues/24119) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
+1. 💪 Opened PR [#8](https://github.com/scute-db/scutedb/pull/8) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
+2. 💪 Opened PR [#7](https://github.com/scute-db/scutedb/pull/7) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
+3. 💪 Opened PR [#6](https://github.com/scute-db/scutedb/pull/6) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
+4. 🗣 Commented on [#24119](https://github.com/getsentry/sentry-javascript/issues/24119#issuecomment-5567541834) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
+5. 💪 Opened PR [#5](https://github.com/scute-db/scutedb/pull/5) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
+6. 🗣 Commented on [#24119](https://github.com/getsentry/sentry-javascript/issues/24119#issuecomment-5551260093) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
 <!--END_SECTION:activity-->
 
 ---
