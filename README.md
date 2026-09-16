@@ -115,12 +115,12 @@ const suhail = {
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/scute-db/scutedb/pull/8) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
-2. 💪 Opened PR [#7](https://github.com/scute-db/scutedb/pull/7) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
-3. 💪 Opened PR [#6](https://github.com/scute-db/scutedb/pull/6) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
-4. 🗣 Commented on [#24119](https://github.com/getsentry/sentry-javascript/issues/24119#issuecomment-5567541834) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
-5. 💪 Opened PR [#5](https://github.com/scute-db/scutedb/pull/5) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
-6. 🗣 Commented on [#24119](https://github.com/getsentry/sentry-javascript/issues/24119#issuecomment-5551260093) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
+1. 🗣 Commented on [#790](https://github.com/GoogleChrome/web-vitals/issues/790#issuecomment-5675208585) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
+2. 💪 Opened PR [#8](https://github.com/scute-db/scutedb/pull/8) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
+3. 💪 Opened PR [#7](https://github.com/scute-db/scutedb/pull/7) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
+4. 💪 Opened PR [#6](https://github.com/scute-db/scutedb/pull/6) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
+5. 🗣 Commented on [#24119](https://github.com/getsentry/sentry-javascript/issues/24119#issuecomment-5567541834) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
+6. 💪 Opened PR [#5](https://github.com/scute-db/scutedb/pull/5) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
 <!--END_SECTION:activity-->
 
 ---
