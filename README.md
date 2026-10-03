@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/OSS%20Projects-9-2EA043?style=for-the-badge&labelColor=0D1117&logo=opensourceinitiative&logoColor=white" alt="stat" />
 <img src="https://img.shields.io/badge/Combined%20Stars-141k%2B-E3B341?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="stat" />
 <img src="https://img.shields.io/badge/Upstream%20Bugs%20Filed-8-DA3633?style=for-the-badge&labelColor=0D1117&logo=gitbook&logoColor=white" alt="stat" />
-<img src="https://img.shields.io/badge/In%20Review-3-0EA5E9?style=for-the-badge&labelColor=0D1117&logo=githubactions&logoColor=white" alt="stat" />
+<img src="https://img.shields.io/badge/In%20Review-4-0EA5E9?style=for-the-badge&labelColor=0D1117&logo=githubactions&logoColor=white" alt="stat" />
 <!--END_SECTION:stats-->
 
 </div>
@@ -116,12 +116,12 @@ const suhail = {
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/scute-db/scutedb/pull/9) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
-2. 🗣 Commented on [#790](https://github.com/GoogleChrome/web-vitals/issues/790#issuecomment-5675208585) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
-3. 💪 Opened PR [#8](https://github.com/scute-db/scutedb/pull/8) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
-4. 💪 Opened PR [#7](https://github.com/scute-db/scutedb/pull/7) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
-5. 💪 Opened PR [#6](https://github.com/scute-db/scutedb/pull/6) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
-6. 🗣 Commented on [#24119](https://github.com/getsentry/sentry-javascript/issues/24119#issuecomment-5567541834) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
+1. 🗣 Commented on [#790](https://github.com/GoogleChrome/web-vitals/issues/790#issuecomment-5955106474) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
+2. 💪 Opened PR [#803](https://github.com/GoogleChrome/web-vitals/pull/803) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
+3. 💪 Opened PR [#9](https://github.com/scute-db/scutedb/pull/9) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
+4. 🗣 Commented on [#790](https://github.com/GoogleChrome/web-vitals/issues/790#issuecomment-5675208585) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
+5. 💪 Opened PR [#8](https://github.com/scute-db/scutedb/pull/8) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
+6. 💪 Opened PR [#7](https://github.com/scute-db/scutedb/pull/7) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
 <!--END_SECTION:activity-->
 
 ---
