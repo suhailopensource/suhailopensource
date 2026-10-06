@@ -24,11 +24,11 @@
 <br><br>
 
 <!--START_SECTION:stats-->
-<img src="https://img.shields.io/badge/Merged%20PRs-23-8957E5?style=for-the-badge&labelColor=0D1117&logo=git&logoColor=white" alt="stat" />
+<img src="https://img.shields.io/badge/Merged%20PRs-24-8957E5?style=for-the-badge&labelColor=0D1117&logo=git&logoColor=white" alt="stat" />
 <img src="https://img.shields.io/badge/OSS%20Projects-9-2EA043?style=for-the-badge&labelColor=0D1117&logo=opensourceinitiative&logoColor=white" alt="stat" />
 <img src="https://img.shields.io/badge/Combined%20Stars-141k%2B-E3B341?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="stat" />
 <img src="https://img.shields.io/badge/Upstream%20Bugs%20Filed-8-DA3633?style=for-the-badge&labelColor=0D1117&logo=gitbook&logoColor=white" alt="stat" />
-<img src="https://img.shields.io/badge/In%20Review-4-0EA5E9?style=for-the-badge&labelColor=0D1117&logo=githubactions&logoColor=white" alt="stat" />
+<img src="https://img.shields.io/badge/In%20Review-3-0EA5E9?style=for-the-badge&labelColor=0D1117&logo=githubactions&logoColor=white" alt="stat" />
 <!--END_SECTION:stats-->
 
 </div>
@@ -67,6 +67,7 @@ const suhail = {
 <!--START_SECTION:oss-->
 | Merged | Project | ★ | What shipped | PR |
 | :---: | :--- | :---: | :--- | :---: |
+| `2026-10-05` | **[GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)** | `8.6k` | Fix negative resourceLoadDuration in LCP attribution | [`#803`](https://github.com/GoogleChrome/web-vitals/pull/803) |
 | `2026-09-26` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `1` | Add internal/nodepage: the on-disk byte layout of a B+Tree node | [`#9`](https://github.com/scute-db/scutedb/pull/9) |
 | `2026-09-12` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `1` | Add B+Tree deletion with borrowing, merging and root collapse | [`#8`](https://github.com/scute-db/scutedb/pull/8) |
 | `2026-09-08` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `1` | Chain the B+Tree leaves and add range scans | [`#6`](https://github.com/scute-db/scutedb/pull/6) |
@@ -102,7 +103,7 @@ const suhail = {
 | Reported | Project | The bug I found | Status |
 | :---: | :--- | :--- | :---: |
 | `2026-09-05` | **[getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)** | [Remix: Trailing-underscore route segments leak into transaction names](https://github.com/getsentry/sentry-javascript/issues/24119) | ✅ Fixed |
-| `2026-08-27` | **[GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)** | [LCP attribution can report a negative `resourceLoadDuration`](https://github.com/GoogleChrome/web-vitals/issues/790) | 🔎 Open |
+| `2026-08-27` | **[GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)** | [LCP attribution can report a negative `resourceLoadDuration`](https://github.com/GoogleChrome/web-vitals/issues/790) | ✅ Fixed |
 | `2026-08-27` | **[getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)** | [Node: Healthy process sessions are never sent because the beforeExit check is inverted](https://github.com/getsentry/sentry-javascript/issues/23699) | ✅ Fixed |
 | `2026-08-24` | **[GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)** | [INP attribution can report a negative `inputDelay`](https://github.com/GoogleChrome/web-vitals/issues/788) | ✅ Fixed |
 | `2026-08-17` | **[sequelize/sequelize](https://github.com/sequelize/sequelize)** | [Op.in: \[\] emits IN (NULL) (SQL UNKNOWN, not FALSE), so Op.not around it returns zero rows instead of all rows](https://github.com/sequelize/sequelize/issues/18306) | 🔎 Open |
