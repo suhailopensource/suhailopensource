@@ -117,12 +117,12 @@ const suhail = {
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#790](https://github.com/GoogleChrome/web-vitals/issues/790#issuecomment-5955106474) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
-2. 💪 Opened PR [#803](https://github.com/GoogleChrome/web-vitals/pull/803) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
-3. 💪 Opened PR [#9](https://github.com/scute-db/scutedb/pull/9) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
-4. 🗣 Commented on [#790](https://github.com/GoogleChrome/web-vitals/issues/790#issuecomment-5675208585) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
-5. 💪 Opened PR [#8](https://github.com/scute-db/scutedb/pull/8) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
-6. 💪 Opened PR [#7](https://github.com/scute-db/scutedb/pull/7) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
+1. 💪 Opened PR [#803](https://github.com/GoogleChrome/web-vitals/pull/803) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
+2. 💪 Opened PR [#9](https://github.com/scute-db/scutedb/pull/9) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
+3. 🗣 Commented on [#790](https://github.com/GoogleChrome/web-vitals/issues/790#issuecomment-5675208585) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
+4. 💪 Opened PR [#8](https://github.com/scute-db/scutedb/pull/8) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
+5. 💪 Opened PR [#7](https://github.com/scute-db/scutedb/pull/7) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
+6. 💪 Opened PR [#6](https://github.com/scute-db/scutedb/pull/6) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
 <!--END_SECTION:activity-->
 
 ---
