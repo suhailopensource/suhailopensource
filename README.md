@@ -26,9 +26,9 @@
 <!--START_SECTION:stats-->
 <img src="https://img.shields.io/badge/Merged%20PRs-24-8957E5?style=for-the-badge&labelColor=0D1117&logo=git&logoColor=white" alt="stat" />
 <img src="https://img.shields.io/badge/OSS%20Projects-9-2EA043?style=for-the-badge&labelColor=0D1117&logo=opensourceinitiative&logoColor=white" alt="stat" />
-<img src="https://img.shields.io/badge/Combined%20Stars-141k%2B-E3B341?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="stat" />
-<img src="https://img.shields.io/badge/Upstream%20Bugs%20Filed-8-DA3633?style=for-the-badge&labelColor=0D1117&logo=gitbook&logoColor=white" alt="stat" />
-<img src="https://img.shields.io/badge/In%20Review-3-0EA5E9?style=for-the-badge&labelColor=0D1117&logo=githubactions&logoColor=white" alt="stat" />
+<img src="https://img.shields.io/badge/Combined%20Stars-142k%2B-E3B341?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="stat" />
+<img src="https://img.shields.io/badge/Upstream%20Bugs%20Filed-9-DA3633?style=for-the-badge&labelColor=0D1117&logo=gitbook&logoColor=white" alt="stat" />
+<img src="https://img.shields.io/badge/In%20Review-4-0EA5E9?style=for-the-badge&labelColor=0D1117&logo=githubactions&logoColor=white" alt="stat" />
 <!--END_SECTION:stats-->
 
 </div>
@@ -80,15 +80,15 @@ const suhail = {
 | `2026-08-27` | **[getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)** | `8.8k` | Store child span timeout handle in \_childSpanTimeoutID | [`#23429`](https://github.com/getsentry/sentry-javascript/pull/23429) |
 | `2026-08-25` | **[GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)** | `8.6k` | Fix negative inputDelay in INP attribution | [`#789`](https://github.com/GoogleChrome/web-vitals/pull/789) |
 | `2026-08-24` | **[GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)** | `8.6k` | Fix spurious CLS report of 0 after bfcache restore | [`#786`](https://github.com/GoogleChrome/web-vitals/pull/786) |
-| `2026-08-18` | **[VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)** | `1.9k` | Highlight only the current File Explorer selection | [`#549`](https://github.com/VoidenHQ/voiden/pull/549) |
-| `2026-08-17` | **[VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)** | `1.9k` | Keep File Explorer highlight in sync with the active file | [`#530`](https://github.com/VoidenHQ/voiden/pull/530) |
+| `2026-08-18` | **[VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)** | `2.0k` | Highlight only the current File Explorer selection | [`#549`](https://github.com/VoidenHQ/voiden/pull/549) |
+| `2026-08-17` | **[VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)** | `2.0k` | Keep File Explorer highlight in sync with the active file | [`#530`](https://github.com/VoidenHQ/voiden/pull/530) |
 | `2026-08-12` | **[up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net)** | `6.0k` | List prefID on up-for-grabs.net with curated good-first-issues | [`#5992`](https://github.com/up-for-grabs/up-for-grabs.net/pull/5992) |
 | `2026-08-07` | **[etro-js/etro](https://github.com/etro-js/etro)** | `1.2k` | Clear the transform effect's scratch canvas between frames | [`#363`](https://github.com/etro-js/etro/pull/363) |
 | `2026-08-06` | **[etro-js/etro](https://github.com/etro-js/etro)** | `1.2k` | Skip redundant per-frame canvas reset on visual layers | [`#362`](https://github.com/etro-js/etro/pull/362) |
 | `2026-08-04` | **[directus/directus](https://github.com/directus/directus)** | `38k` | Allow single-row translation updates that include key and language | [`#28001`](https://github.com/directus/directus/pull/28001) |
 | `2026-07-30` | **[TryGhost/Ghost](https://github.com/TryGhost/Ghost)** | `55k` | Fixed feature image alt text silently disappearing when too long | [`#29681`](https://github.com/TryGhost/Ghost/pull/29681) |
 | `2026-07-30` | **[eclipse-theia/theia](https://github.com/eclipse-theia/theia)** | `21k` | Update application toolbar enablement on widget and context changes | [`#17833`](https://github.com/eclipse-theia/theia/pull/17833) |
-| `2026-07-30` | **[VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)** | `1.9k` | Parse YAML env files in runner --env option | [`#523`](https://github.com/VoidenHQ/voiden/pull/523) |
+| `2026-07-30` | **[VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)** | `2.0k` | Parse YAML env files in runner --env option | [`#523`](https://github.com/VoidenHQ/voiden/pull/523) |
 | `2026-07-28` | **[eclipse-theia/theia](https://github.com/eclipse-theia/theia)** | `21k` | Scope markdown preview header styles to .markdown-preview | [`#17824`](https://github.com/eclipse-theia/theia/pull/17824) |
 | `2026-07-27` | **[etro-js/etro](https://github.com/etro-js/etro)** | `1.2k` | Remove jsdoc and doc generation script | [`#359`](https://github.com/etro-js/etro/pull/359) |
 <!--END_SECTION:oss-->
@@ -102,6 +102,7 @@ const suhail = {
 <!--START_SECTION:issues-->
 | Reported | Project | The bug I found | Status |
 | :---: | :--- | :--- | :---: |
+| `2026-10-08` | **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** | [\[Bug\] removeBase64Images deletes text and table cells when a non-base64 data:image comes before a base64 image on the same line](https://github.com/firecrawl/firecrawl/issues/5022) | 🔎 Open |
 | `2026-09-05` | **[getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)** | [Remix: Trailing-underscore route segments leak into transaction names](https://github.com/getsentry/sentry-javascript/issues/24119) | ✅ Fixed |
 | `2026-08-27` | **[GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)** | [LCP attribution can report a negative `resourceLoadDuration`](https://github.com/GoogleChrome/web-vitals/issues/790) | ✅ Fixed |
 | `2026-08-27` | **[getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)** | [Node: Healthy process sessions are never sent because the beforeExit check is inverted](https://github.com/getsentry/sentry-javascript/issues/23699) | ✅ Fixed |
@@ -117,12 +118,12 @@ const suhail = {
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#803](https://github.com/GoogleChrome/web-vitals/pull/803) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
-2. 💪 Opened PR [#9](https://github.com/scute-db/scutedb/pull/9) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
-3. 🗣 Commented on [#790](https://github.com/GoogleChrome/web-vitals/issues/790#issuecomment-5675208585) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
-4. 💪 Opened PR [#8](https://github.com/scute-db/scutedb/pull/8) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
-5. 💪 Opened PR [#7](https://github.com/scute-db/scutedb/pull/7) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
-6. 💪 Opened PR [#6](https://github.com/scute-db/scutedb/pull/6) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
+1. 👀 Reviewed [#5023](https://github.com/firecrawl/firecrawl/pull/5023) in [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
+2. 💪 Opened PR [#5023](https://github.com/firecrawl/firecrawl/pull/5023) in [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
+3. ❗ Opened issue [#5022](https://github.com/firecrawl/firecrawl/issues/5022) in [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
+4. 💪 Opened PR [#803](https://github.com/GoogleChrome/web-vitals/pull/803) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
+5. 💪 Opened PR [#9](https://github.com/scute-db/scutedb/pull/9) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
+6. 🗣 Commented on [#790](https://github.com/GoogleChrome/web-vitals/issues/790#issuecomment-5675208585) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
 <!--END_SECTION:activity-->
 
 ---
