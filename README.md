@@ -26,7 +26,7 @@
 <!--START_SECTION:stats-->
 <img src="https://img.shields.io/badge/Merged%20PRs-25-8957E5?style=for-the-badge&labelColor=0D1117&logo=git&logoColor=white" alt="stat" />
 <img src="https://img.shields.io/badge/OSS%20Projects-9-2EA043?style=for-the-badge&labelColor=0D1117&logo=opensourceinitiative&logoColor=white" alt="stat" />
-<img src="https://img.shields.io/badge/Combined%20Stars-141k%2B-E3B341?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="stat" />
+<img src="https://img.shields.io/badge/Combined%20Stars-142k%2B-E3B341?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="stat" />
 <img src="https://img.shields.io/badge/Upstream%20Bugs%20Filed-10-DA3633?style=for-the-badge&labelColor=0D1117&logo=gitbook&logoColor=white" alt="stat" />
 <img src="https://img.shields.io/badge/In%20Review-4-0EA5E9?style=for-the-badge&labelColor=0D1117&logo=githubactions&logoColor=white" alt="stat" />
 <!--END_SECTION:stats-->
@@ -120,12 +120,12 @@ const suhail = {
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/suhailopensource/prefID/pull/31#issuecomment-6085918730) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
-2. 🗣 Commented on [#805](https://github.com/GoogleChrome/web-vitals/issues/805#issuecomment-6087141827) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
-3. ❗ Opened issue [#38](https://github.com/suhailopensource/prefID/issues/38) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
-4. ❗ Opened issue [#37](https://github.com/suhailopensource/prefID/issues/37) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
-5. ❗ Opened issue [#36](https://github.com/suhailopensource/prefID/issues/36) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
-6. ❗ Opened issue [#35](https://github.com/suhailopensource/prefID/issues/35) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+1. 🔒 Closed issue [#791](https://github.com/GoogleChrome/web-vitals/issues/791) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
+2. 🗣 Commented on [#45](https://github.com/suhailopensource/prefID/pull/45#issuecomment-6111175958) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+3. 🔒 Closed issue [#36](https://github.com/suhailopensource/prefID/issues/36) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+4. 🗣 Commented on [#45](https://github.com/suhailopensource/prefID/pull/45#issuecomment-6110574973) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+5. 🗣 Commented on [#51](https://github.com/suhailopensource/prefID/pull/51#issuecomment-6110573741) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+6. 🗣 Commented on [#50](https://github.com/suhailopensource/prefID/pull/50#issuecomment-6110572396) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
 <!--END_SECTION:activity-->
 
 ---
