@@ -120,12 +120,12 @@ const suhail = {
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#56](https://github.com/suhailopensource/prefID/issues/56) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
-2. ❗ Opened issue [#55](https://github.com/suhailopensource/prefID/issues/55) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
-3. ❗ Opened issue [#54](https://github.com/suhailopensource/prefID/issues/54) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
-4. ❗ Opened issue [#53](https://github.com/suhailopensource/prefID/issues/53) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
-5. ❗ Opened issue [#52](https://github.com/suhailopensource/prefID/issues/52) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
-6. 🔒 Closed issue [#791](https://github.com/GoogleChrome/web-vitals/issues/791) in [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)
+1. 🗣 Commented on [#55](https://github.com/suhailopensource/prefID/issues/55#issuecomment-6139295887) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+2. 🗣 Commented on [#57](https://github.com/suhailopensource/prefID/pull/57#issuecomment-6140114825) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+3. ❗ Opened issue [#56](https://github.com/suhailopensource/prefID/issues/56) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+4. ❗ Opened issue [#55](https://github.com/suhailopensource/prefID/issues/55) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+5. ❗ Opened issue [#54](https://github.com/suhailopensource/prefID/issues/54) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
+6. ❗ Opened issue [#53](https://github.com/suhailopensource/prefID/issues/53) in [suhailopensource/prefID](https://github.com/suhailopensource/prefID)
 <!--END_SECTION:activity-->
 
 ---
