@@ -67,16 +67,16 @@ const suhail = {
 <!--START_SECTION:oss-->
 | Merged | Project | ★ | What shipped | PR |
 | :---: | :--- | :---: | :--- | :---: |
-| `2026-10-09` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `1` | Add internal/pagestore: page allocation, a free list, and crash-safe checkpoints | [`#10`](https://github.com/scute-db/scutedb/pull/10) |
+| `2026-10-09` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `2` | Add internal/pagestore: page allocation, a free list, and crash-safe checkpoints | [`#10`](https://github.com/scute-db/scutedb/pull/10) |
 | `2026-10-05` | **[GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)** | `8.6k` | Fix negative resourceLoadDuration in LCP attribution | [`#803`](https://github.com/GoogleChrome/web-vitals/pull/803) |
-| `2026-09-26` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `1` | Add internal/nodepage: the on-disk byte layout of a B+Tree node | [`#9`](https://github.com/scute-db/scutedb/pull/9) |
-| `2026-09-12` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `1` | Add B+Tree deletion with borrowing, merging and root collapse | [`#8`](https://github.com/scute-db/scutedb/pull/8) |
-| `2026-09-08` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `1` | Chain the B+Tree leaves and add range scans | [`#6`](https://github.com/scute-db/scutedb/pull/6) |
-| `2026-09-05` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `1` | Add internal/btree: in-memory B+Tree with search, insert and split | [`#5`](https://github.com/scute-db/scutedb/pull/5) |
-| `2026-08-31` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `1` | Add internal/slots: fixed-size aligned record slots | [`#4`](https://github.com/scute-db/scutedb/pull/4) |
-| `2026-08-30` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `1` | Update roadmap table in README | [`#3`](https://github.com/scute-db/scutedb/pull/3) |
-| `2026-08-30` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `1` | Add internal/nullbits, and fix three key-encoding defects in codec | [`#2`](https://github.com/scute-db/scutedb/pull/2) |
-| `2026-08-30` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `1` | Add internal/codec: compact value encoding and order-preserving key encoding | [`#1`](https://github.com/scute-db/scutedb/pull/1) |
+| `2026-09-26` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `2` | Add internal/nodepage: the on-disk byte layout of a B+Tree node | [`#9`](https://github.com/scute-db/scutedb/pull/9) |
+| `2026-09-12` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `2` | Add B+Tree deletion with borrowing, merging and root collapse | [`#8`](https://github.com/scute-db/scutedb/pull/8) |
+| `2026-09-08` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `2` | Chain the B+Tree leaves and add range scans | [`#6`](https://github.com/scute-db/scutedb/pull/6) |
+| `2026-09-05` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `2` | Add internal/btree: in-memory B+Tree with search, insert and split | [`#5`](https://github.com/scute-db/scutedb/pull/5) |
+| `2026-08-31` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `2` | Add internal/slots: fixed-size aligned record slots | [`#4`](https://github.com/scute-db/scutedb/pull/4) |
+| `2026-08-30` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `2` | Update roadmap table in README | [`#3`](https://github.com/scute-db/scutedb/pull/3) |
+| `2026-08-30` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `2` | Add internal/nullbits, and fix three key-encoding defects in codec | [`#2`](https://github.com/scute-db/scutedb/pull/2) |
+| `2026-08-30` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `2` | Add internal/codec: compact value encoding and order-preserving key encoding | [`#1`](https://github.com/scute-db/scutedb/pull/1) |
 | `2026-08-28` | **[getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)** | `8.8k` | Only end the process session when it is still ok | [`#23725`](https://github.com/getsentry/sentry-javascript/pull/23725) |
 | `2026-08-27` | **[getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)** | `8.8k` | Store child span timeout handle in \_childSpanTimeoutID | [`#23429`](https://github.com/getsentry/sentry-javascript/pull/23429) |
 | `2026-08-25` | **[GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)** | `8.6k` | Fix negative inputDelay in INP attribution | [`#789`](https://github.com/GoogleChrome/web-vitals/pull/789) |
