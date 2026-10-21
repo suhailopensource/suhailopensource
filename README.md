@@ -68,7 +68,7 @@ const suhail = {
 | Merged | Project | ★ | What shipped | PR |
 | :---: | :--- | :---: | :--- | :---: |
 | `2026-10-09` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `2` | Add internal/pagestore: page allocation, a free list, and crash-safe checkpoints | [`#10`](https://github.com/scute-db/scutedb/pull/10) |
-| `2026-10-05` | **[GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)** | `8.6k` | Fix negative resourceLoadDuration in LCP attribution | [`#803`](https://github.com/GoogleChrome/web-vitals/pull/803) |
+| `2026-10-05` | **[GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)** | `8.7k` | Fix negative resourceLoadDuration in LCP attribution | [`#803`](https://github.com/GoogleChrome/web-vitals/pull/803) |
 | `2026-09-26` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `2` | Add internal/nodepage: the on-disk byte layout of a B+Tree node | [`#9`](https://github.com/scute-db/scutedb/pull/9) |
 | `2026-09-12` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `2` | Add B+Tree deletion with borrowing, merging and root collapse | [`#8`](https://github.com/scute-db/scutedb/pull/8) |
 | `2026-09-08` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `2` | Chain the B+Tree leaves and add range scans | [`#6`](https://github.com/scute-db/scutedb/pull/6) |
@@ -79,8 +79,8 @@ const suhail = {
 | `2026-08-30` | **[scute-db/scutedb](https://github.com/scute-db/scutedb)** | `2` | Add internal/codec: compact value encoding and order-preserving key encoding | [`#1`](https://github.com/scute-db/scutedb/pull/1) |
 | `2026-08-28` | **[getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)** | `8.8k` | Only end the process session when it is still ok | [`#23725`](https://github.com/getsentry/sentry-javascript/pull/23725) |
 | `2026-08-27` | **[getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)** | `8.8k` | Store child span timeout handle in \_childSpanTimeoutID | [`#23429`](https://github.com/getsentry/sentry-javascript/pull/23429) |
-| `2026-08-25` | **[GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)** | `8.6k` | Fix negative inputDelay in INP attribution | [`#789`](https://github.com/GoogleChrome/web-vitals/pull/789) |
-| `2026-08-24` | **[GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)** | `8.6k` | Fix spurious CLS report of 0 after bfcache restore | [`#786`](https://github.com/GoogleChrome/web-vitals/pull/786) |
+| `2026-08-25` | **[GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)** | `8.7k` | Fix negative inputDelay in INP attribution | [`#789`](https://github.com/GoogleChrome/web-vitals/pull/789) |
+| `2026-08-24` | **[GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)** | `8.7k` | Fix spurious CLS report of 0 after bfcache restore | [`#786`](https://github.com/GoogleChrome/web-vitals/pull/786) |
 | `2026-08-18` | **[VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)** | `1.9k` | Highlight only the current File Explorer selection | [`#549`](https://github.com/VoidenHQ/voiden/pull/549) |
 | `2026-08-17` | **[VoidenHQ/voiden](https://github.com/VoidenHQ/voiden)** | `1.9k` | Keep File Explorer highlight in sync with the active file | [`#530`](https://github.com/VoidenHQ/voiden/pull/530) |
 | `2026-08-12` | **[up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net)** | `6.0k` | List prefID on up-for-grabs.net with curated good-first-issues | [`#5992`](https://github.com/up-for-grabs/up-for-grabs.net/pull/5992) |
