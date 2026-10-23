@@ -103,7 +103,7 @@ const suhail = {
 <!--START_SECTION:issues-->
 | Reported | Project | The bug I found | Status |
 | :---: | :--- | :--- | :---: |
-| `2026-10-09` | **[nocodb/nocodb](https://github.com/nocodb/nocodb)** | [Bug: Earliest/Latest Date aggregation shows "Invalid Date" for 15 of 19 DateTime field formats](https://github.com/nocodb/nocodb/issues/14804) | 🔎 Open |
+| `2026-10-09` | **[nocodb/nocodb](https://github.com/nocodb/nocodb)** | [Bug: Earliest/Latest Date aggregation shows "Invalid Date" for 15 of 19 DateTime field formats](https://github.com/nocodb/nocodb/issues/14804) | ✅ Fixed |
 | `2026-10-08` | **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** | [\[Bug\] removeBase64Images deletes text and table cells when a non-base64 data:image comes before a base64 image on the same line](https://github.com/firecrawl/firecrawl/issues/5022) | 🔎 Open |
 | `2026-09-05` | **[getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)** | [Remix: Trailing-underscore route segments leak into transaction names](https://github.com/getsentry/sentry-javascript/issues/24119) | ✅ Fixed |
 | `2026-08-27` | **[GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)** | [LCP attribution can report a negative `resourceLoadDuration`](https://github.com/GoogleChrome/web-vitals/issues/790) | ✅ Fixed |
