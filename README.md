@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/OSS%20Projects-9-2EA043?style=for-the-badge&labelColor=0D1117&logo=opensourceinitiative&logoColor=white" alt="stat" />
 <img src="https://img.shields.io/badge/Combined%20Stars-142k%2B-E3B341?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="stat" />
 <img src="https://img.shields.io/badge/Upstream%20Bugs%20Filed-10-DA3633?style=for-the-badge&labelColor=0D1117&logo=gitbook&logoColor=white" alt="stat" />
-<img src="https://img.shields.io/badge/In%20Review-4-0EA5E9?style=for-the-badge&labelColor=0D1117&logo=githubactions&logoColor=white" alt="stat" />
+<img src="https://img.shields.io/badge/In%20Review-6-0EA5E9?style=for-the-badge&labelColor=0D1117&logo=githubactions&logoColor=white" alt="stat" />
 <!--END_SECTION:stats-->
 
 </div>
@@ -120,12 +120,12 @@ const suhail = {
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/suhailopensource/review-demo/pull/2#issuecomment-6635545768) in [suhailopensource/review-demo](https://github.com/suhailopensource/review-demo)
-2. 👀 Reviewed [#2](https://github.com/suhailopensource/review-demo/pull/2) in [suhailopensource/review-demo](https://github.com/suhailopensource/review-demo)
-3. 💪 Opened PR [#2](https://github.com/suhailopensource/review-demo/pull/2) in [suhailopensource/review-demo](https://github.com/suhailopensource/review-demo)
-4. 🗣 Commented on [#1](https://github.com/suhailopensource/review-demo/pull/1#issuecomment-6635222059) in [suhailopensource/review-demo](https://github.com/suhailopensource/review-demo)
-5. 👀 Reviewed [#1](https://github.com/suhailopensource/review-demo/pull/1) in [suhailopensource/review-demo](https://github.com/suhailopensource/review-demo)
-6. 💪 Opened PR [#1](https://github.com/suhailopensource/review-demo/pull/1) in [suhailopensource/review-demo](https://github.com/suhailopensource/review-demo)
+1. 💪 Opened PR [#12](https://github.com/scute-db/scutedb/pull/12) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
+2. 💪 Opened PR [#11](https://github.com/scute-db/scutedb/pull/11) in [scute-db/scutedb](https://github.com/scute-db/scutedb)
+3. 🗣 Commented on [#2](https://github.com/suhailopensource/review-demo/pull/2#issuecomment-6635545768) in [suhailopensource/review-demo](https://github.com/suhailopensource/review-demo)
+4. 👀 Reviewed [#2](https://github.com/suhailopensource/review-demo/pull/2) in [suhailopensource/review-demo](https://github.com/suhailopensource/review-demo)
+5. 💪 Opened PR [#2](https://github.com/suhailopensource/review-demo/pull/2) in [suhailopensource/review-demo](https://github.com/suhailopensource/review-demo)
+6. 🗣 Commented on [#1](https://github.com/suhailopensource/review-demo/pull/1#issuecomment-6635222059) in [suhailopensource/review-demo](https://github.com/suhailopensource/review-demo)
 <!--END_SECTION:activity-->
 
 ---
